@@ -1,0 +1,128 @@
+
+0
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
+ICT 213 SYSTEM ANALYSIS AND DESIGN (SAD) H E RI S O N S U RBAK TI , P H . D
+
+2
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
+1.UNIFIED Model Process 2.UML View OBJECTIVES
+
+3
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
+❑The Object Modeling Technique (OMT) is an object modeling language for software
+modeling and design. ❑Developed by Rumbaugh, Blaha, Premerlani, Eddy, and
+Lorensenas a method for the development of object-oriented systems and
+supporting object-oriented programming. INTRODUCTION
+
+4
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
+RAUMBAUGH OMT ❑The purpose of modeling according to Raumbaugh(1991) ➢Performing
+physical testing of entities before constructing them (simulation)
+➢Communicating with consumers ➢Visualization (an alternative to presenting
+information) ➢Reducing complexity ❑There are 3 main types of models 1.Object
+Model: The main concept involves classes and associations with attributes and
+operations. Relationships between classes take the form of aggregation and
+generalization. 2.Dynamic Model: Represents the state/transition model. The main
+concepts are state, transitions between states, and ev ents causing transitions.
+Actions are modeled as events within a state. 3.Functional Model: Deals with
+processes in the model, linking to data flow diagrams. The main concepts include
+processes, data stores, data flow, and actors.
+
+5
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
+BOOCH OMT ❑The analysis phase is divided into several steps ➢Consumer
+Requirements ➢Domain Analysis ➢Validation Step ➢Requirements, domain analysis,
+and validation ➢Iterative architectural design ➢Processes, performance, data
+types, data structures, visibility ➢Logical design, physical design, prototypes,
+and testing
+
+1
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
+OBJECT MODELING (INTRODUCTION) I C T 2 1 3 S YS TE MS AN AL YS I S AN D D E S I
+G N
+
+6
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
+JACOBSON OOSE (OBJECT-ORIENTED SOFTWARE ENGINEERING) ❑Object-Oriented Software
+Engineering (OOSE) is a software design technique used in object-oriented
+programming. ❑OOSE was developed by Ivar Jacobson in 1992. ❑OOSE is an
+object-oriented design methodology that employs use cases in software design.
+❑Components of OOSE include requirement modeling, analysis, design,
+implementation, and testing.
+
+7
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
+OOSE
+
+8
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
+UNIFIED MODEL PROCESS
+
+9
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
+UNIFIED MODEL PROCESS ❑Iterative and Incremental ❑Use Case Driven ❑Focus on Risk
+
+10
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
+VIEW IN UNIFIED MODELINGLANGUAGE (UML)
+
+12
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
+CLASS DIAGRAM ❑Class Diagram is the most popular diagram in UML used by
+object-oriented communities. ✓It depicts objects in the system and their
+relationships. ✓Class diagrams consist of attributes and functions. ✓One class
+diagram illustrates a specific aspect of the system, and a collection of class
+diagrams illustrates the entire system. ✓Class diagrams depict the static view
+of the system. ✓Only class diagrams can be mapped to object-oriented languages.
+✓Widely used by developers.
+
+13
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
+OBJECT DIAGRAM ❑Object diagram is a member of the class diagram. ❑Basic elements
+are the same as the class diagram. ❑Object diagram consists of objects and
+relationships between objects. ❑Capturing members of the system at a specific
+point in time. ❑Object diagrams are used for prototyping, reverse engineering,
+and modeling practical scenarios.
+
+16
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
+ACTIVITY DIAGRAM ❑Activity diagram is an important diagram for depicting dynamic
+behavior. ❑Activity diagrams consist of activities, links, relationships, etc.
+❑Model all types of flows, including parallel, single, concurrent, etc.
+❑Activity diagrams depict the flow control from one activity to another without
+specific messages. ❑This diagram is used to model at a high level of business
+requirements.
+
+11
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
+UML DIAGRAM ❑Diagrams are the key to UML. These diagrams are categorized into 2
+types: ✓Structural diagrams consist of static diagrams such as class diagrams,
+object diagrams, etc. ✓Behavioral diagrams consist of dynamic diagrams such as
+sequence diagrams, collaboration diagrams, etc. ❑The static and dynamic behavior
+of the system is visualized using these diagrams.
+
+17
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
+SEQUENCE DIAGRAM ❑Sequence Diagrams are interaction diagrams. ❑Sequence Diagrams
+detail the execution of operations. ❑Sequence Diagrams capture interactions
+between objects. ❑Sequence Diagrams are time-focused. ❑The vertical axis in the
+diagram is used to represent time.
+
+18
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
+Thank you Dr. Herison Surbakti Email: herison.s@rsu.ac.th Department of I
+nformation and communication technology, I nternational college
+
+14
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
+COMPONENT DIAGRAM ❑Component diagram is a specific UML diagram to depict static
+implementation in a system. ❑The component diagram consists of physical
+components such as libraries, files, folders, etc. ❑This diagram is used for the
+implementation perspective.
+
+15
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
+USE CASE DIAGRAM ❑Use case diagrams are used to capture the dynamic behavior of
+a system. ❑Consists of use cases, actors, and their relationships. ❑Use case
+diagrams are employed at a high-level design to capture system requirements.
+❑Depicts the functionality of the system and its flow.

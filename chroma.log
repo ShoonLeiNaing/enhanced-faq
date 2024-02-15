@@ -1,0 +1,93 @@
+[32mINFO[0m:     [15-02-2024 01:01:03] Set chroma_server_nofile to 65535
+[32mINFO[0m:     [15-02-2024 01:01:03] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [15-02-2024 01:01:03] Starting component System
+[36mDEBUG[0m:    [15-02-2024 01:01:03] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [15-02-2024 01:01:03] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [15-02-2024 01:01:03] Starting component SqliteDB
+[36mDEBUG[0m:    [15-02-2024 01:01:03] Starting component Posthog
+[36mDEBUG[0m:    [15-02-2024 01:01:03] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [15-02-2024 01:01:03] Starting component SegmentAPI
+[32mINFO[0m:     [15-02-2024 01:01:03] Started server process [[36m16141[0m]
+[32mINFO[0m:     [15-02-2024 01:01:03] Waiting for application startup.
+[32mINFO[0m:     [15-02-2024 01:01:03] Application startup complete.
+[32mINFO[0m:     [15-02-2024 01:01:03] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [15-02-2024 01:08:48] ::1:49325 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:10:00] ::1:49388 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:10:35] ::1:49403 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:10:43] Shutting down
+[32mINFO[0m:     [15-02-2024 01:10:44] Waiting for application shutdown.
+[32mINFO[0m:     [15-02-2024 01:10:44] Application shutdown complete.
+[32mINFO[0m:     [15-02-2024 01:10:44] Finished server process [[36m16141[0m]
+[32mINFO[0m:     [15-02-2024 01:10:59] Set chroma_server_nofile to 65535
+[32mINFO[0m:     [15-02-2024 01:10:59] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [15-02-2024 01:10:59] Starting component System
+[36mDEBUG[0m:    [15-02-2024 01:10:59] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [15-02-2024 01:10:59] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [15-02-2024 01:10:59] Starting component SqliteDB
+[36mDEBUG[0m:    [15-02-2024 01:10:59] Starting component Posthog
+[36mDEBUG[0m:    [15-02-2024 01:10:59] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [15-02-2024 01:10:59] Starting component SegmentAPI
+[32mINFO[0m:     [15-02-2024 01:10:59] Started server process [[36m17976[0m]
+[32mINFO[0m:     [15-02-2024 01:10:59] Waiting for application startup.
+[32mINFO[0m:     [15-02-2024 01:10:59] Application startup complete.
+[32mINFO[0m:     [15-02-2024 01:10:59] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [15-02-2024 01:11:02] ::1:49419 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:11:04] ::1:49419 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [15-02-2024 01:11:04] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [15-02-2024 01:11:04] ::1:49423 - "POST /api/v1/collections/9b625af5-a6f1-4a9d-95ec-520ee0737d07/upsert HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:11:05] ::1:49419 - "POST /api/v1/collections/9b625af5-a6f1-4a9d-95ec-520ee0737d07/query HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:12:58] ::1:49494 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:12:58] ::1:49495 - "DELETE /api/v1/collections/RIC-enhanced-FAQ?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:12:59] ::1:49494 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [15-02-2024 01:12:59] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [15-02-2024 01:12:59] ::1:49495 - "POST /api/v1/collections/4829a2ec-511c-4d18-a3a9-75b06c4b2289/upsert HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:13:00] ::1:49494 - "POST /api/v1/collections/4829a2ec-511c-4d18-a3a9-75b06c4b2289/query HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:14:10] ::1:49561 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:14:10] ::1:49562 - "DELETE /api/v1/collections/RIC-enhanced-FAQ?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:14:12] ::1:49561 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [15-02-2024 01:14:12] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [15-02-2024 01:14:12] ::1:49562 - "POST /api/v1/collections/23ffa888-5100-4972-a417-da1d38676caf/upsert HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:14:12] ::1:49561 - "POST /api/v1/collections/23ffa888-5100-4972-a417-da1d38676caf/query HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:14:52] ::1:49581 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:14:52] ::1:49582 - "DELETE /api/v1/collections/RIC-enhanced-FAQ?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:14:54] ::1:49581 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [15-02-2024 01:14:54] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [15-02-2024 01:14:54] ::1:49582 - "POST /api/v1/collections/fc1f421c-57e3-4422-acfa-ae59d45de143/upsert HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:14:54] ::1:49581 - "POST /api/v1/collections/fc1f421c-57e3-4422-acfa-ae59d45de143/query HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:16:06] ::1:49609 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:16:06] ::1:49610 - "DELETE /api/v1/collections/RIC-enhanced-FAQ?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:16:07] ::1:49609 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [15-02-2024 01:16:08] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [15-02-2024 01:16:08] ::1:49610 - "POST /api/v1/collections/a39d7a02-4cec-4cb4-bc62-15bb4e79852e/upsert HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:16:08] ::1:49609 - "POST /api/v1/collections/a39d7a02-4cec-4cb4-bc62-15bb4e79852e/query HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:20:51] ::1:49726 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:20:51] ::1:49727 - "DELETE /api/v1/collections/RIC-enhanced-FAQ?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:20:53] ::1:49726 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [15-02-2024 01:20:53] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [15-02-2024 01:20:53] ::1:49727 - "POST /api/v1/collections/907ee6d3-078f-4299-9185-d73f9b7bca25/upsert HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:21:25] ::1:49740 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:21:25] ::1:49741 - "DELETE /api/v1/collections/RIC-enhanced-FAQ?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:21:27] ::1:49740 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [15-02-2024 01:21:27] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [15-02-2024 01:21:27] ::1:49741 - "POST /api/v1/collections/d7db8618-2498-4915-b0be-d9a972780d7d/upsert HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:22:07] ::1:49764 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:22:07] ::1:49765 - "DELETE /api/v1/collections/RIC-enhanced-FAQ?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:22:09] ::1:49764 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [15-02-2024 01:22:09] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [15-02-2024 01:22:09] ::1:49765 - "POST /api/v1/collections/f710dcf6-3758-47dd-857d-f295e76f7bdd/upsert HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:22:28] ::1:49776 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:22:28] ::1:49777 - "DELETE /api/v1/collections/RIC-enhanced-FAQ?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:22:29] ::1:49776 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [15-02-2024 01:22:29] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [15-02-2024 01:22:29] ::1:49777 - "POST /api/v1/collections/ffb142fd-3358-4785-a1c1-1556ce3aa30b/upsert HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:22:33] ::1:49776 - "POST /api/v1/collections/ffb142fd-3358-4785-a1c1-1556ce3aa30b/query HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:22:47] ::1:49791 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:22:47] ::1:49792 - "DELETE /api/v1/collections/RIC-enhanced-FAQ?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:22:49] ::1:49791 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [15-02-2024 01:22:49] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [15-02-2024 01:22:49] ::1:49792 - "POST /api/v1/collections/99c22ca6-3816-4873-9bb4-111901ac3d05/upsert HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:22:57] ::1:49799 - "POST /api/v1/collections/99c22ca6-3816-4873-9bb4-111901ac3d05/query HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 01:23:13] Shutting down
+[32mINFO[0m:     [15-02-2024 01:23:13] Waiting for application shutdown.
+[32mINFO[0m:     [15-02-2024 01:23:13] Application shutdown complete.
+[32mINFO[0m:     [15-02-2024 01:23:13] Finished server process [[36m17976[0m]

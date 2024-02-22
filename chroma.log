@@ -91,3 +91,33 @@
 [32mINFO[0m:     [15-02-2024 01:23:13] Waiting for application shutdown.
 [32mINFO[0m:     [15-02-2024 01:23:13] Application shutdown complete.
 [32mINFO[0m:     [15-02-2024 01:23:13] Finished server process [[36m17976[0m]
+[32mINFO[0m:     [15-02-2024 10:51:16] Set chroma_server_nofile to 65535
+[32mINFO[0m:     [15-02-2024 10:51:16] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[36mDEBUG[0m:    [15-02-2024 10:51:16] Starting component System
+[36mDEBUG[0m:    [15-02-2024 10:51:16] Starting component OpenTelemetryClient
+[36mDEBUG[0m:    [15-02-2024 10:51:16] Starting component SimpleAssignmentPolicy
+[36mDEBUG[0m:    [15-02-2024 10:51:16] Starting component SqliteDB
+[36mDEBUG[0m:    [15-02-2024 10:51:16] Starting component Posthog
+[36mDEBUG[0m:    [15-02-2024 10:51:16] Starting component LocalSegmentManager
+[36mDEBUG[0m:    [15-02-2024 10:51:16] Starting component SegmentAPI
+[32mINFO[0m:     [15-02-2024 10:51:16] Started server process [[36m28349[0m]
+[32mINFO[0m:     [15-02-2024 10:51:16] Waiting for application startup.
+[32mINFO[0m:     [15-02-2024 10:51:16] Application startup complete.
+[32mINFO[0m:     [15-02-2024 10:51:16] Uvicorn running on [1mhttp://localhost:8000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     [15-02-2024 10:51:27] ::1:60141 - "GET /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 10:51:27] ::1:60142 - "DELETE /api/v1/collections/RIC-enhanced-FAQ?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 10:51:32] ::1:60148 - "POST /api/v1/collections?tenant=default_tenant&database=default_database HTTP/1.1" 200
+[36mDEBUG[0m:    [15-02-2024 10:51:32] Starting component PersistentLocalHnswSegment
+[32mINFO[0m:     [15-02-2024 10:51:32] ::1:60149 - "POST /api/v1/collections/00c84286-0c43-4b99-8df8-28376fbc36d6/upsert HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 10:52:06] ::1:60203 - "POST /api/v1/collections/00c84286-0c43-4b99-8df8-28376fbc36d6/query HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 10:52:24] ::1:60214 - "POST /api/v1/collections/00c84286-0c43-4b99-8df8-28376fbc36d6/query HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 10:53:19] ::1:60232 - "POST /api/v1/collections/00c84286-0c43-4b99-8df8-28376fbc36d6/query HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 10:53:33] ::1:60248 - "POST /api/v1/collections/00c84286-0c43-4b99-8df8-28376fbc36d6/query HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 10:53:52] ::1:60260 - "POST /api/v1/collections/00c84286-0c43-4b99-8df8-28376fbc36d6/query HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 10:54:26] ::1:60271 - "POST /api/v1/collections/00c84286-0c43-4b99-8df8-28376fbc36d6/query HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 10:54:45] ::1:60278 - "POST /api/v1/collections/00c84286-0c43-4b99-8df8-28376fbc36d6/query HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 10:55:24] ::1:60291 - "POST /api/v1/collections/00c84286-0c43-4b99-8df8-28376fbc36d6/query HTTP/1.1" 200
+[32mINFO[0m:     [15-02-2024 10:56:34] Shutting down
+[32mINFO[0m:     [15-02-2024 10:56:34] Waiting for application shutdown.
+[32mINFO[0m:     [15-02-2024 10:56:34] Application shutdown complete.
+[32mINFO[0m:     [15-02-2024 10:56:34] Finished server process [[36m28349[0m]

@@ -1,128 +1,2607 @@
 
 0
-/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
-ICT 213 SYSTEM ANALYSIS AND DESIGN (SAD) H E RI S O N S U RBAK TI , P H . D
-
-2
-/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
-1.UNIFIED Model Process 2.UML View OBJECTIVES
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+RIC'S INTERNSHIPS PORTAL FOR ICT STUDENTS Question: what is the website of RIC
+ICT Internship website? Answer: This is the website of RIC ICT Internship
+website https://sites.google.com/rsu.ac.th/sic/home Question: how many options
+for internship at ICT Program Rangsit International college? Answer: There are
+two options for Internship at RIC ICT Program (Option 1) Internship and Senior
+Project (6 credits) and (Option 2) ICT 498 Co-operative Education (6 credits)
+Question: Tell me details of internship options. Answer: There are two options
+for Internship at RIC ICT Program (Option 1) Internship and Senior Project (6
+credits) 1(0-35-18) ICT 493 Internship (1 credit) Students will enter an
+industrial training program with the industrial sector, the business sector, or
+other public organizations for a period of at least 280 hours. Students need to
+work at least 280 hours or 2 months for internship. Student is required to do
+the report. 2(2-0-4) ICT 494 Introduction to
 
 3
-/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
-❑The Object Modeling Technique (OMT) is an object modeling language for software
-modeling and design. ❑Developed by Rumbaugh, Blaha, Premerlani, Eddy, and
-Lorensenas a method for the development of object-oriented systems and
-supporting object-oriented programming. INTRODUCTION
-
-4
-/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
-RAUMBAUGH OMT ❑The purpose of modeling according to Raumbaugh(1991) ➢Performing
-physical testing of entities before constructing them (simulation)
-➢Communicating with consumers ➢Visualization (an alternative to presenting
-information) ➢Reducing complexity ❑There are 3 main types of models 1.Object
-Model: The main concept involves classes and associations with attributes and
-operations. Relationships between classes take the form of aggregation and
-generalization. 2.Dynamic Model: Represents the state/transition model. The main
-concepts are state, transitions between states, and ev ents causing transitions.
-Actions are modeled as events within a state. 3.Functional Model: Deals with
-processes in the model, linking to data flow diagrams. The main concepts include
-processes, data stores, data flow, and actors.
-
-5
-/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
-BOOCH OMT ❑The analysis phase is divided into several steps ➢Consumer
-Requirements ➢Domain Analysis ➢Validation Step ➢Requirements, domain analysis,
-and validation ➢Iterative architectural design ➢Processes, performance, data
-types, data structures, visibility ➢Logical design, physical design, prototypes,
-and testing
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+complete. Work Placement Accept – 5% complete. Job Description form sign up from
+workplace (ICTCE02 Co Operative Education Job Description form) – 10% complete.
+ICT Department issue the letter for work placement (Letter of request for work
+placement * giving to the employer) 10% complete. Teacher visiting (ICTCE03
+confirmation form of workplace supervision of Coop Edu supervision program) –
+15% complete. Weekly progress report (ICTCE04 Weekly process report form) – 35%
+complete. Evaluate work performance ( ICTCE05 Co operative education evaluation
+form from job supervisor) –
 
 1
-/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
-OBJECT MODELING (INTRODUCTION) I C T 2 1 3 S YS TE MS AN AL YS I S AN D D E S I
-G N
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Senior Project (2 credits) Before you start the internship or co operative
+education, Students must earned at least 45 credits of required major courses or
+acquire consent from Head of Program. Creation of senior project topics;
+outlining and drafting senior projects; citations and reference formats; writing
+introduction for senior projects; compilation of theories; frameworks and
+existed works and/or related researches; writing for senior project
+methodologies; development and presentation of models and/or tools used in
+senior projects; preliminary examination of senior project proposals. 3(0-6-3)
+ICT 495 Senior Project (3 credits) . Students must finished ICT 494 Introduction
+to Senior Project and/or must earned at least 50 credits of required major
+courses or acquire consent of Head of Program. Completion of senior projects;
+printing standard for full senior projects; preparation for final examination of
+senior projects; final examination of
+
+4
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+50% complete. Evaluate internship report (ICTCE06 Student evaluation form from
+job advisor/ supervisor) – 60% complete. Consent to publish report (ICTCE07 –
+Letter of consent to publish report / co operative education project) 70%
+complete. Submit Report ( cooperative education report for 1 job supervisor , 2
+co operative supervisor, 3 the committee) – 80% complete. Presentation
+(Student’s evaluation form (for job advisor/ supervisor for 1 job supervisor , 2
+co operative supervisor, 3 the committee) – 90% complete. Amendment & Submit
+final draft report ( within 2 weeks after presentation) – 100% complete.
+Question: Tell me steps of GRADUATION REQUEST PROCESS RANGSIT UNIVERSITY 1.
+Answer:Keeping in mind to note the specific period for near-graduated students
+to request graduation according to the academic calendar, the steps:Start
+Graduation Request (0%). Visit the Registrar’s office website or directly access
+http://registrar.rsu.ac.th/applyforgraduate (period for
+near-graduated).Authentication
+
+5
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+(10%). Log in with your Username (with 'u' in front) and Password (same as the
+Intranet system). Input Information (20%). Fill in your address details for
+document dispatch. Print Forms (30%). Print out the Curriculum Structure Form
+(RSU.36) and Graduation Request Form (RSU.62). Payment (40%). Pay the 200 Baht
+fee via the provided payment channels (QR code available). Photo Submission
+(50%). Obtain a 2-inch photo in graduation gown against a blue background.
+Advisor Approval (60%). Get the Curriculum Structure Form (RSU.36) approved and
+signed by your advisor. Form Submission (70%). Submit the RSU.36 and RSU.62
+forms along with the photograph to the Registrar’s office before the deadline
+(period for near-graduated).Confirmation (80%). Receive acknowledgment of
+submission from the Registrar’s office.Final Verification (90%). Wait for the
+verification process by the University Council.Graduation Approval (100%).
+Receive confirmation of graduation approval.
 
 6
-/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
-JACOBSON OOSE (OBJECT-ORIENTED SOFTWARE ENGINEERING) ❑Object-Oriented Software
-Engineering (OOSE) is a software design technique used in object-oriented
-programming. ❑OOSE was developed by Ivar Jacobson in 1992. ❑OOSE is an
-object-oriented design methodology that employs use cases in software design.
-❑Components of OOSE include requirement modeling, analysis, design,
-implementation, and testing.
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Question: How many forms do I need to fill for internship and co operative
+education Answer: There are 7 application forms for internship and co operative
+education 1. ICTCE01 - Looking for work placement (Co-operative Education
+Application Form) 2. ICTCE02 - Job description form sign up from workplace
+(Co-operative Education Job Description Form) 3. ICTCE03 - (Confirmation Form of
+Workplace Supervision of Co-operative Education Supervision Program) 4. ICTCE04
+- Weekly Progress Report (Weekly Progress Report Form) 5. ICTCE05 - Evaluate
+Work Performance Co-operative Education Evaluation Form (For Job Supervisor) 6.
+ICTCE06 - Evaluate Internship Report Student’s Evaluation Form (For Job Advisor
+/ Supervisor) 7. ICTCE07 - Consent to Publish Report (Letter of Consent to
+Publish Report / Co- operative Education Project) How many internship options
+have in RIC. There are two internship options 1. Internship and 2 . Co operative
+Education.
+
+2
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+senior projects. 6(0-35-18). (Option 2) ICT 498 Co-operative Education (6
+credits) Students must earned at least 60 credits of major courses or acquire
+consent from Head of Program. Minimum of 16 weeks or 560 hours must be achieved
+to complete co operative education. This program is designed to enhance
+traditional academic study by providing students the opportunity to integrate
+academic study and classroom theory with productive and real-life work
+experience in Information and Communication Technology field at a work site in
+the community. It also provides the time to explore occupational areas and to
+develop skills, knowledge and attitudes needed to become productive and
+satisfied members of society. Question: Timeline for internship and co-operative
+Answer: There are 12 steps for Timeline for internship and co-operative each
+steps have complete percentages 1. Looking for work placement (ICTCE01 Co
+Operative Education Application Form) -0%
 
 7
-/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
-OOSE
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Question: How to find internship or co operative education. Answer: You can try
+to find internship from these glints, internjobs.com, experience by simplicity,
+internsg, glassdoor, hiredly, LinkedIn, wayup, Asia Internship program,
+gradsingapore. FAQ : Frequently Asked Questions Question: What are the
+admissions requirements? Answer: The academic entry requirement is high school
+diploma or equivalent and IELTS 5 or equivalent. Question: What if don’t have
+any recent IELTS scores? Answer: Students can take an English Placement Test
+(free-of-charge) once they arrive at the university. If a student’s English
+level is below the minimum requirement of IELTS 5, the student would need to
+take some English subjects before starting the program. Please see the section
+English Placement Test for more details. Question: How long does the admissions
+process take? Answer: Once we have the completed application file, including all
+required materials, it usually
 
 8
-/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
-UNIFIED MODEL PROCESS
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+takes a few days to a week for application processing, review, and for your
+Letter of Acceptance to be sent by email. You will then be required to pay a
+non-refundable partial payment 30% of tuition fees of the semester before your
+visa supporting document is granted. The remaining 70% of the fees are paid once
+you arrived at the university. Please note, the partial payment may be changed
+based on your country of origin. Question: Where do I get my visa and how long
+does it take to have it? Answer: Once we received the non-refundable partial
+payment 30% of tuition fees, we will process your visa supporting document and
+send to you via email or postal. Then you can lodge your visa application at
+nearest Thai Embassy or consulate in your country, which could take at least 1
+week to 1 month, depending on the visa processing requirement of the Thai
+embassy or consulate in your country, which you have provided to us during your
+online application.
 
 9
-/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
-UNIFIED MODEL PROCESS ❑Iterative and Incremental ❑Use Case Driven ❑Focus on Risk
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Question: What documents must I present to get my visa? Answer: We will provide
+you a scan copy of the visa issuance letter sent to your email and these
+documents are also sent by EMS to the postal address you specified on the online
+application form. Once you received the original visa issuance letter, all these
+documents must be submitted to the Thai embassy or consulate for you to be
+granted the visa. Question: What if I studied before from another college or
+university? Answer: If you have successfully completed units or subjects from
+another institution, either in Thailand or overseas or from a different degree
+at Rangsit University, you may apply for credit transfer that may reduce the
+time you take to complete your current degree. The student is allowed to
+transfer a maximum of 75% of the total credits for the current program he is
+studying. The subjects eligible for credit transfer must have an exact
+equivalent credit value or higher, and a completed grade of C or above.
 
 10
-/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
-VIEW IN UNIFIED MODELINGLANGUAGE (UML)
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Please see the section Credit Transfer for more details. Question: Do you
+require SAT/ACT scores? Answer: The university does not require SAT/ACT scores
+to be admitted to the international programs. Question: Do you require letters
+of reference? Answer: We do not require letters of reference and do not use them
+as part of the admissions process. Question: How early should a student apply?
+And how many intakes are there in Rangsit international college. Answer You
+should allow at least 2 months before semester starts. Applying early is
+important. There are 3 intakes for Rangsit international college. Our intakes
+are ; Summer (June-July) 1st Semester (August to December) 2nd Semester (January
+to May) Applications are accepted on a rolling basis and normally take at least
+2 to 4 weeks until the student has received the visa. Question: What is the next
+step once I receive my visa? Answer: Student can now book their air ticket to
+fly to Thailand and start booking their
 
 12
-/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
-CLASS DIAGRAM ❑Class Diagram is the most popular diagram in UML used by
-object-oriented communities. ✓It depicts objects in the system and their
-relationships. ✓Class diagrams consist of attributes and functions. ✓One class
-diagram illustrates a specific aspect of the system, and a collection of class
-diagrams illustrates the entire system. ✓Class diagrams depict the static view
-of the system. ✓Only class diagrams can be mapped to object-oriented languages.
-✓Widely used by developers.
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+required. Once we received the application, we will notify you of the schedule
+of Skype interview which is at the specified local date and time. Question: How
+do you determine scholarship eligibility?
 
 13
-/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
-OBJECT DIAGRAM ❑Object diagram is a member of the class diagram. ❑Basic elements
-are the same as the class diagram. ❑Object diagram consists of objects and
-relationships between objects. ❑Capturing members of the system at a specific
-point in time. ❑Object diagrams are used for prototyping, reverse engineering,
-and modeling practical scenarios.
-
-16
-/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
-ACTIVITY DIAGRAM ❑Activity diagram is an important diagram for depicting dynamic
-behavior. ❑Activity diagrams consist of activities, links, relationships, etc.
-❑Model all types of flows, including parallel, single, concurrent, etc.
-❑Activity diagrams depict the flow control from one activity to another without
-specific messages. ❑This diagram is used to model at a high level of business
-requirements.
-
-11
-/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
-UML DIAGRAM ❑Diagrams are the key to UML. These diagrams are categorized into 2
-types: ✓Structural diagrams consist of static diagrams such as class diagrams,
-object diagrams, etc. ✓Behavioral diagrams consist of dynamic diagrams such as
-sequence diagrams, collaboration diagrams, etc. ❑The static and dynamic behavior
-of the system is visualized using these diagrams.
-
-17
-/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
-SEQUENCE DIAGRAM ❑Sequence Diagrams are interaction diagrams. ❑Sequence Diagrams
-detail the execution of operations. ❑Sequence Diagrams capture interactions
-between objects. ❑Sequence Diagrams are time-focused. ❑The vertical axis in the
-diagram is used to represent time.
-
-18
-/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
-Thank you Dr. Herison Surbakti Email: herison.s@rsu.ac.th Department of I
-nformation and communication technology, I nternational college
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Answer: Scholarship applicants are reviewed and interviewed by the scholarship
+committee. Factors taken into consideration include, but are not limited to: are
+grade point average (GPA), coursework, test scores, extracurricular activities,
+and community involvement. Question: How do I contact the university if I need
+more information? Answer: Students can email rsuip@rsu.ac.th, call +662 997 2200
+ext. 4012, 4019, or connect to social media like Facebook, Line, Instagram and
+Twitter, which are all available on this web site. Question: what are the
+English Language Requirement for Rangsit International college (RIC) a.
+Englishis theapplicant’s first languageor; b. A score of B2 level in the CEFR
+framework; or c. An IELTS (Academic) overall score of 5.5 or; d. TOEFL score of
+at least 500 in Paper-Based Test; 173 in Computer-Based Test; 60 in
+Internet-Based Test or; e. CU-TEP Test equivalent score of 70 or other approved
+equivalents or;
 
 14
-/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
-COMPONENT DIAGRAM ❑Component diagram is a specific UML diagram to depict static
-implementation in a system. ❑The component diagram consists of physical
-components such as libraries, files, folders, etc. ❑This diagram is used for the
-implementation perspective.
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+f. Pass the Rangsit University International College (RIC) Placement Test *An
+applicant who does not meet the English language requirement will take the RIC
+Eng- lish Foundation Programme before they can start the degree program.
+Question: How can I Reserved Graduation Gown of RSU Graduation Ceremony Answer:
+Announcement Dear All Ready-to-Be RIC Graduates This is the graduation news in
+terms of gown For those who are graduate and willing to participate in the
+graduation ceremony of 2023, the Book store of RSU opens the period of
+reservation of the graduation gown at 2nd floor, building 9, every Monday-Friday
+(08.30-16.00), except the lunch time and holidays. Moreover, please note that
+you can reserve it and have to wait 1 month later from the day of your
+reservation. Also, if you cannot come to get it by yourself, please give your
+receipt and the rest of money to that person who can come to get. DON’T LOSE
+YOUR RECEIPT!  For the Bachelor’s degree, .....
 
 15
-/Users/shoon/Desktop/enhanced-faq/backend/public/data/ICT213 Lecture 05 - Object Modeling.pdf
-USE CASE DIAGRAM ❑Use case diagrams are used to capture the dynamic behavior of
-a system. ❑Consists of use cases, actors, and their relationships. ❑Use case
-diagrams are employed at a high-level design to capture system requirements.
-❑Depicts the functionality of the system and its flow.
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+– Rent fee of 1,900 baht (Deposits 1,000 baht) – Tailor-made rental fee of 2,800
+baht (Deposits 1,500 baht) – Tailor-made cut fee of 2,800 baht (Deposits 2,000
+baht)  For the Master’s degree, ..... – Rent fee of 2,000 baht (Deposits 1,000
+baht) – Tailor-made rental fee of 3,000 baht (Deposits 2,000 baht) – Tailor-made
+cut fee of 3,000 baht (Deposits 2,000 baht) PS. This is one of your options
+which you can choose or you can make it with the outside tailor- made graduation
+shops Question: What are the emergency protocols while we live in Thailand.
+Answer: Emergency Protocol An emergency is unpredictable. The best approach to
+avoid accident or emergency is taking precaution when you travel, using public
+transports and how you exposing yourself.
+
+16
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Be cautious! Do not use motor-bike if you are not familiar with roading behavior
+in Thailand Do not expose yourself in vulnerable areas eg. walking at night
+alone Do not carry a large amount of cash Do not insult other people such as
+pointing a finger to the face, staring or any other offended behavior Use common
+sense in public or in a crowded area Please report to ISS office when you travel
+for holidays For travel report form: https://form.jotform.me/rsuvie/tr In the
+case of an emergency, you should follow a protocol as follows Contact your
+friend or advising teacher for assistance Report to Faculty staff Contact the
+office of ISC (Visa and Insurance Office – building 11-2nd floor) To contact
+authorities for help. Dial 191 for Police Dial 1155 for Tourist Police
+(www.thailandtouristpolice.com) particularly in tourist areas Dial 1669 for an
+ambulance or medical emergency Question: what are the undergraduate academic
+entry requirements
+
+17
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Answer: For direct admission into undergraduate courses offered by Rangsit
+University, one of the the following requirements must be met: 1. Academic Entry
+Requirement a. Completed Upper Secondary School (M.6 Certificate) or its
+equivalent as recognized by the Thai Ministry of Education or; b. Completed High
+School Grade 12 (US System) or; c. Passed 5 subjects of Cambridge IGCSE or
+O-Level with a Grade C or above (British System) or; d. Completed International
+Baccalaureate (IB) Diploma 2. English Language Requirement* a. English is the
+applicant’s first language or; b. A score of B2 level in the CEFR framework; or
+c. An IELTS (Academic) overall score of 5.5 or; d. TOEFL score of at least 500
+in Paper-Based Test; 173 in Computer-Based Test; 60 in Internet- Based Test or;
+e. CU-TEP Test equivalent score of 70 or other approved equivalents or; f. Pass
+the Rangsit University International College (RIC) Placement Test
+
+18
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+*An applicant who does not meet the English language requirement will take the
+RIC English Foundation Programme before they can start the degree program. For
+RIC English Foundation Programm, please click This is the website link of
+English Foundation Programm https://www.rsuip.org/programmes/english-foundation/
+IMPORTANT REMINDER: 1. Original documents or certified copies of original
+documents.
+
+19
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+2. Police clearance from the country of origin stating that the applicant has no
+previous criminal record or any related offense. The two documents could be sent
+by post to: Rangsit University International College (RIC), Rangsit university
+52/347 Muang-Ake, Phahonyothin Road, Lak-Hok, Pathum Tani 12000, Thailand
+CERTIFIED DOCUMENTS For applicants coming from the 54 African countries
+https://www.countries-ofthe- world.com/countries-of-africa.html, two additional
+requirements are needed Students can send original documents or certified copies
+of original documents to Rangsit University. A certified copy is a photocopy of
+an original document, which has been certified as a true copy of the original by
+an authorized person from the country of origin. To get a document certified:
+Make a photocopy of the original document Take the original and the copy to an
+authorized person. The person must make the following written statement on every
+page, ‘I have sighted the original
+
+20
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+document and certify this to be a true copy of the original’, along with their
+signature and designation/job title (for example, Pharmacist). Question: What is
+postgraduate academic entry requirements Answer: postgraduate academic entry
+requirements are for direct admission into postgraduate courses offered by
+Rangsit University, international applicants must have completed an approved
+Bachelor Degree or its equivalent as recognized by the Thai Ministry of
+Education. Foundation courses will be added should the undergraduate degree of
+the applicant is not related to the program he/she is applying (for example,
+Master of Education) Question: How to contact RIC Answer: CONTACT US The email
+of Rangsit International College RIC Email : rsuip@rsu.ac.th The Telephone of
+RIC: + 66 (0)2 997-2200 ext 4012, 4019 The Fax of RIC: +66 (0)2 997-2200 ext
+4016 Question: What is the address of RIC. Answer: ADDRESS of Rangsit
+Univerisity
+
+22
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Srinuan Ketkaew is the Senior Administration Staff Pawanee Thanyasukvanich
+(Ting) is the Senior Academic Affairs Supervisor Kittima Tangtongpetch (Kitty)
+is the Foundation Staff Chananan Liangchoosak (Fern) is the Secretary of
+Comm.Arts Question: 3+1 program at Rangsit International College (RIC)
+Answer:Rangsit University International College “ 3+1 Programmes Pathway to the
+World ” RSU 3+1 Programmes Opportunities. Rangsit University students are able
+to get the most out of their studies by participating in the 3+1 programme with
+RSU. RSU provides a pathway for students to build their resumes and life
+experience while traveling and studying in another country. RSU students will
+have the chance to study their first year(s) in Thailand and then spend the
+final year(s) studying at a different university to earn two degrees for the
+field of choice. You can go and study to England, Australia and Finland with 3+1
+programs
+
+11
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+accommodation and airport pick-up from the web site. Question: Are students
+required to live on campus? Answer: Students are not required to live on campus.
+Initially, students are booked to one of the network of apartment located
+off-campus that the International Service Center has reserved for them. These
+accommodations are in front or beside the university and are easily accessible
+by foot. Question: Can I stay inside the campus dormitory? Answer: Because of
+the limited number of rooms of on campus accommodation, reservation must be made
+at least 2 months in advance. Student can first stay at the off-campus dormitory
+provided and once they have settled in, they can reserve the on campus
+accommodation. Question: How do students apply for scholarships? Answer: To
+qualify for scholarships, students must first complete the online scholarship
+application form for the appropriate intake and academic year and attach
+relevant documents
+
+23
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+3+1 program around the country such as United Kingdom,Australia and Finland For
+United Kingdom have below universities 1. Sheffield Hallam University (SHU) is a
+public university in Sheffield, South Yorkshire, England. It is based on two
+sites; the City Campus is located in the city centre near Sheffield railway
+station, while the Collegiate Crescent Campus is about two miles away in the
+Broomhall Estate off Ecclesall Road in south-west Sheffield. That Sheffield
+Hallam University (SHU) is connected with International Business Program from
+RIC. Require IELTS 6.0. 2. The foundation stone of University College Hull, then
+an external college of the University of London, was laid in 1927 by Prince
+Albert, the Duke of York (who later became king as George VI). The college was
+built on land donated by Hull City Council and by two local benefactors, Thomas
+Ferens and G F Grant. ThatUniversity College Hul is connected with International
+Business Program from RIC. Require IELTS 6.0.
+
+21
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+52/347 Muang-Ake Phaholyothin Road Lak-Hok Muang Pathumthani 12000 , Thailand
+Question: who are staffs of college Answers: Nudda Karnchananon (Platoo) is the
+Secretary of the RIC Dean. Nattawadee Chamnipan (Pla) is the Assistant to
+Associate Dean for Student Affairs Kittiphong Suntikitrungruang (Guize) is the
+International Student Services Supervisor Kanokphan Somsan (Aor) is the
+Secretary of Information and Communication Technology Programm Kanyarat Somchai
+(Natty) is the Special Affairs Staff Bongkod Pinitjaroenkul (Ribbin) is the
+Academic Affairs Staff Pochara Sanguanpong (Peace) is theStudent Activities
+Staff
+
+26
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+1992.[2] In common with the University of Bristol and University of Bath it can
+trace its origins to the Merchant Venturers’ Technical College, founded as a
+school in 1595 by the Society of Merchant Venturers. That The University of the
+West of England, Bristol (UWE Bristol) is connected with International Business
+Program from RIC. There is euro 1000-2000 bursary. 6. De Montfort University
+(DMU) is a public university in the city of Leicester, England. The University
+is organised into four faculties: Art, Design, and Humanities; Business and Law;
+Health and Life Sciences; and Technology (comprising Computing Sciences and
+Engineering). There is also the Institute of Creative Technologies which
+researches the intersections of art, science, technology and multidisciplinary
+working. That De Montfort University (DMU) is connected with International
+Business Program from RIC. It requires IELTS 6.0 For Australia have below
+universities
+
+25
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+other is the much older University of Aberdeen). That Robert Gordon University
+is connected with International Business Program from RIC. Require GPA or 2.5 or
+above. Evidence of Satisfactory English level. 5. The University of the West of
+England, Bristol (UWE Bristol) is a public research university, located in and
+around Bristol, England, which received university status in
+
+27
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+1. The University of Canberra (UC) is an innovative, world ranked university
+located in Australia’s national capital, a diverse and vibrant city situated
+between the Australia Alps and South Coast surf beaches. 3+1 Programme with the
+University of Canberra is a perfect way to accelerate your future goals. This
+pathway will let you study 3 years at Rangsit University and your final year
+studying at University of Canberra. That The University of Canberra (UC) is
+connected with B.Com.Arts Communication Arts Bachelor of Fine Arts in Product
+Design from RIC. It requires IELTS 6.5 2. Murdoch University is internationally
+recognised as a research-led institution with a flexible approach to learning.
+Our graduates are sought after by business and industries as a result of the
+high-quality teaching and relevant real-world learning. Enrol in the ICT 3+1
+programme at Rangsit University and choose your international pathway to study
+at
+
+28
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Murdoch University, Australia for a 3+1 Programm. That Murdoch University is
+connected with BSc Information and Communication Technology program from RIC. It
+requires IELTS 6.0 3. The University of Wollongong (abbreviated as UOW) is an
+Australian public research university located in the coastal city of Wollongong,
+New South Wales, approximately 80 kilometres south of Sydney. As of 2017 the
+university has an enrolment of more than 32,000 students (including over 12,800
+international students from 134 countries), an alumni base of more than 131,859
+and over 2,000 staff members. That The University of Wollongong (abbreviated as
+UOW) is connected with International Business Program from RIC . It requires
+IELTS 6.0 For Finland have below universities 1. South-Eastern Finland
+University of Applied Sciences (Xamk) is a University of Applied Sciences in
+Finland. It was established in the beginning of 2017, when Kymenlaakso
+
+29
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+University of Applied Sciences (Kyamk) and Mikkeli University of Applied
+Sciences (Mamk) merged. That university South-Eastern Finland University of
+Applied Sciences (Xamk) is connected with BSc Nursing Science program from RIC.
+RSU Academic Calendar There are three semester at RIC Semester 1: August -
+December Semester 2: January - May Summer: June – July
+
+32
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+number of industrial parks. Pathumthani is also very accessible to Bangkok via
+car, bus, train and taxi. How to get to Rangsit University from Suvarnabhumi
+Airport? You can get to Rangsit University from Suvarnabhumi Airport by Line 554
+Public Van, Taxi and BTS Train. How to get to Rangsit University from Don Muang
+Airport?
+
+24
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+3. Anglia Ruskin University has its origins in the Cambridge School of Art,
+founded by William John Beamont in 1858. The inaugural address was given by John
+Ruskin (often incorrectly described as the founder; in fact he founded the
+Ruskin School of Drawing in Oxford). The original location was near Sidney
+Sussex College, later moving to its present location in East Road, Cambridge.
+That Anglia Ruskin University is connected with International Business Program
+from RIC. Euro 2000 as merit scholarships for Rangsit student. IELTS Waived by
+The University 4. Robert Gordon University, commonly called RGU, is a public
+university in the city of Aberdeen, Scotland. It became a university in 1992,
+and originated from an educational institution founded in the 18th century by
+Robert Gordon, a prosperous Aberdeen merchant, and various institutions which
+provided adult education and technical education in the 19th and early 20th
+centuries. It is one of two universities in the city (the
+
+33
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+You can get to Rangsit University from Don Muang Airport by Taxi, Train and
+Pick-up Truck(Songthaew) . Why do I have to choose Rangsit University or Rangsit
+International College among other universities? Rangsit University, is a leading
+private university in Thailand accredited by the Thai Government. Renowned for
+academic excellence and international teaching standards, RSU consistently
+achieves the highest rating in quality assurance audits by the Ministry of
+Education and the Thai Office for National Education Standards and Quality
+Assessment. Established in 1986, RSU enrolls over 28,000 students in 134 degree
+programs, including 87 undergraduate, 36 master's, and 11 doctoral degrees. The
+main campus, situated on a 296 rai site in Pathumthani Province, offers an ideal
+study environment just 30 minutes from downtown Bangkok. Surrounded by golf
+courses, lakes, sporting facilities, restaurants, and shopping options, the
+
+34
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+campus provides a comprehensive experience. RSU, known for its accessible
+accommodation, is well-connected by public transport for students desiring
+proximity to Bangkok. What are the missions of RIC? Why do I have to choose RIC
+among other universities? RIC’s mission is to provide accessible, personalized,
+high quality educational opportunities for local and international students to
+ensure that they develop the necessary academic skills and excel in their future
+careers and studies. Within a supportive community that encourages students to
+seek learning with eagerness, to respect diversity in viewpoints, to participate
+in variety of activities both inside and outside of the classroom, RIC guides
+students to the means of transforming themselves into confident, capable, and
+committed leaders in their fields. In the culturally diverse learning
+environment at RIC, which emphasizes student engagement in community, cultural,
+and civic concerns, each student will have the opportunity to prepare
+
+35
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+themselves for lifelong success in the 21st century’s global society. Who is the
+Dean of Rangsit International College? Asst.Prof.Dr. Kritsada Sriphaew (Aj.Kong)
+is the Dean of Rangsit International College. Who is the Associate Dean for
+student affairs of Rangsit International College? Prinda Setabundhu (Aj.Pap) is
+the Associate Dean of Rangsit International College. Who is the Associate Dean
+for academic affairs of Rangsit International College? Amporn Puapradit is the
+Associate Dean for Academic Affairs of Rangsit International College. Who is the
+Associate Dean for administration affairs of Rangsit International College?
+Malisuwan (Aj.Koy) is the Associate Dean for Administration affairs of Rangsit
+International College. Who is the head of the International Business Programm?
+Ussanee Malisuwan (Aj.Koy) is the head of the International Business Programme.
+Who is the head of the Information and Communication Technology Programm?
+
+37
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Fusiripong(Aj.Nueng), Billel Arbaoui (Aj.Bill), Dr.Herison Surbakti . Question:
+What is the semester of commencement in RIC undergraduate programs? Answer: RIC
+employs the semester system, in which each of the two semesters is 15 weeks and
+a summer of 8 weeks in length. Our academic calendar is as follows : there are
+three semesters • Summer : June - July • 1st Semester : August - December • 2nd
+Semester : January – May • Question: When is the application period for RIC
+undergraduate programs? Answer: Summer : February - June • 1st Semester : August
+- December • 2nd Semester : January - May Question: What is the English
+Requirement for undergraduate programs? Answer: English is the applicant’s first
+language or, A score of B2 level in the CEFR framework or an IELTS (Academic)
+overall score of 5.5 or, TOEFL score of at least 500 in Paper-Based Test; 173 in
+Computer-Based Test; 60 in Internet-Based Test or, CU-TEP Test equivalent score
+
+31
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Where is Rangsit University located? Rangsit University is located in
+Pathumthani, a neighbouring province directly north of Bangkok. Phatumthani is
+situated in the Chao Phraya basin and contains many canals and agricultural
+plantations where rice, vegetables and various fruits are grown. Its original
+name was Mueang Sam Khok, and was senled by the Mon people migrating from
+Mohtama (in Myanmar) over 350 years ago. There are many interesting places
+located in the province such as the National Science Museum, numerous historical
+temples, renowned markets such as Klong Sam Floating Market and Talad Thai, one
+of the largest shopping malls in Thailand called Future Park Rangsit, the famous
+Dream World Amusement Park, The Supreme Artist Hall and the National Archives in
+Commemoration of H.M. the King’s Golden Jubilee. The province is also considered
+to be an ‘Education and Technology Hub’ with a high concentration of higher
+education institutions, many research agencies and institutes and a
+
+30
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+RSU Qualifications 1. Complete Upper Secondary or its equivalent as recognised
+by the Thai Ministry of Education or b. Obtain a High School Diploma or GED (US
+System); or c. Complete A/AS levels (British System); or d. International
+Baccalaureate (IB) Diploma 2. Pass IELTS Test with a score of 5.0, or TOEFL with
+a score of 500, or pass RSU Oxford Placement Test (Free for students) Who is the
+president of Rangsit University International College? Dr.Attawit Ourairat is
+the president of Rangsit University International College. Can you tell me about
+Rangsit University? Rangsit University, a Leading Private University in
+Thailand.Rangsit University is a private institution of higher education with
+the primary aim of creating graduates in the area of study meeting the
+requirements of national development by focusing mainly on science , technology,
+design and management including independent professions which are requisites in
+development of one's own career.
+
+36
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Assoc.Prof.Dr.Todsanai Chumwatana (Aj.Noey) is the head of the Information and
+Communication Technology Programme Who is the head of the International Digital
+Business Programm? Asst. Prof. Dr. Suttisak Jantavongso (Aj.Goke) is the head of
+the International Digital Business Programme. Who is the head of General
+Education (International)? Edward Devere Bacon (Aj.Eddie) is the head of General
+Education (International). Who are the lecturers of general education?
+Asst.Prof.Gessanee Maneerat (Aj.Gessy), Dr.Bruce Edward Weeks, Timothy Boundy
+(Aj.Tim), Maksim Pisarev, Roongkan Nedtranon, (Aj.Bee), Irian Pievskaya. Who is
+Dr.Anna Davtyan? Dr.Anna Davtyan is lecturer of International Digital Business.
+Who is Srisongruk Prohmvitak, (Aj.Tap)? Srisongruk Prohmvitak, (Aj.Tap) is
+lecturer of International Business Programme. Who are the lecturers of
+Information and Communication Technology? The lecturers of Information and
+Communication Technology are Dr.Prashaya
+
+38
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+of 70 or other approved equivalents or, Pass the Rangsit University
+International College (RIC) Placement Test. *An applicant who does not meet the
+English language requirement will take the RIC English Foundation Programme
+before they can start the degree program. There might be changes in requirement.
+Please check https://www.rsuip.org/programmes/undergraduate/ Question: How to
+apply to RIC programs?
+
+39
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Answer: Please follow instructions in this website
+https://www.rsuip.org/admissions/how-to- apply/ Question: What are general
+education (GE) courses? Answer: I. Humanities and Social Sciences (3 credits)
+II. Sciences and Mathematics (9 credits) III. Languages (15 credits) IV.
+Interdisciplinary and Physical Education (3 credits) Question: Who do we contact
+for Academic Enquiry? Answer: Head of department of the corresponding
+department, please check the related links of your program or check
+https://www.rsuip.org/programmes/undergraduate International Business Website:
+https://www.rsuip.org/programmes/undergraduate/international-business/ Question:
+What degree will you get from the International Business(IB) Program? Answer:
+You will get Bachelor of Business Administration (International Business)
+Question: What are course fees for the International Business Program? Answer:
+Tuition fee per semester is 56,000 - 74,000 for international business program
+and for
+
+41
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+structure – this is the credits of international business GENERAL EDUCATION
+COURSES (30 CREDITS), CORE COURSES (96 CREDITS) and Free elective (6 credits)
+Question: Who is head of department in the International Business (IB) program?
+Answer: Current head of department of international business is Ussanee
+Malisuwan.email: ussaneem@yahoo.com For details about IB program, please check
+this is the website of International business program
+https://www.rsuip.org/programmes/undergraduate/international-business/ Question:
+What are core courses in the International Business(IB) program? Answer:
+Professional Foundation Courses(36 credits), Major courses (60 credits) in which
+we have required major courses(36 credits) and elective major courses(24
+credits). We also have
+
+42
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+free elective (6 credits). For more course details, please go to
+https://www.rsuip.org/programmes/undergraduate/international-business/ website-
+course structure. Communication Arts Website:
+https://www.rsuip.org/programmes/undergraduate/communication-arts/ Question:
+What degree will you get from the Communication Arts(Comm Arts) program? Answer:
+you will get Bachelor of Communication Arts or B.Comm Arts (International
+Program) Question: What are course fees for the Communication Arts (Comm Arts)
+program? Answer: Tuition fee per semester for communication arts program is
+56,000 - 74,000, and for more details go to
+https://www.rsuip.org/programmes/undergraduate/communication-arts/ Question: How
+long is the Communication Arts program? Answer: you need to study 4 years to
+complete communication arts program. Question: WHY STUDY IN COMMUNICATION ARTS
+program? What is the purpose? Answer: The reasons and purpose that you should
+study communication arts program at RIC
+
+40
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+more details go to
+https://www.rsuip.org/programmes/undergraduate/international-business/ Question:
+What is the purpose of the International Business(IB) program? Answer: The
+International Business program equips students with a background in general
+management and an understanding of business from the perspective of different
+cultures and organizations. Question: How long is the International Business
+program? Answer: You need to study 4 years for international business program.
+Question: What are career opportunities after finishing the International
+Business(IB) program? Answer: There continues to be a huge demand for graduates
+in all areas of International Business and employment prospects are excellent in
+the fields of government and privately- owned companies, international
+organizations and entrepreneurship. Question: How many credits do we need for
+the International Business Program? Answer: total Credit requirements - 132
+credits for international business program with course
+
+44
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+by the Thai Ministry of Education or High School Grade 12 (US System) or Passed
+5 subjects of
+
+45
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+IGCSE O-Level and 3 subjects of A/AS Subjects with Grade C or above (British
+System) or Completed International Baccalaureate (IB) Diploma Question: What is
+COURSE DESCRIPTION/PURPOSE of Communication Arts(Comm Arts) program? Answer: The
+Bachelor of Communication Arts is a program that studies the areas of
+advertising, journalism and public relations, creating a new generation of
+marketing communicators. The program examines the many different forms of
+communication, including verbal, non-verbal and written, as well as the various
+technologies through which information is transmitted. The program also
+emphasizes applied skills relevant to work within the communication industries.
+The Bachelor of Communication Arts gives students a flexible structure with a
+broad range of disciplines to choose from, and is an appropriate preparation for
+a wide range of career opportunities. Question: what are career opportunities
+/EMPLOYMENT OUTCOMES?
+
+46
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Answer: Graduates of the program are able to work in advertising management,
+public relations, media planning, news reporting and editing, commentating, TV
+and radio. Question: Who is head of department for the Comm Arts program?
+Answer: the head of department of communication arts program is Assist. Prof.
+Dr. Duangthip Charoenruk.email: duangtipc@hotmail.com Question: What is the
+credit requirement for Comm Arts? Answer: We need 126 credits to finish the Comm
+Arts program. General Education (30 credits) , core courses (90 credits) and
+free elective (6 credits). Question: What is the course structure for Comm Arts?
+Answer: Please check
+https://www.rsuip.org/programmes/undergraduate/communication-arts/ TOURISM,
+HOSPITALITY AND SPORTS Website:
+https://www.rsuip.org/programmes/undergraduate/its/ Question: What degree can I
+get from the tourism, hospitality and sports program? Answer:you will get
+Bachelor of Arts (Tourism, Hospitality and Sports)
+
+47
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Question: How long is the tourism, hospitality and sports program? Answer: you
+need to study 4 years for the tourism, hospitality and sports program Question:
+How much is the course fee for the tourism, hospitality and sports program?
+Answer: the program fees for the tourism, hospitality and sports program is
+56,000 - 65,000 per semester. For more details, please visit
+https://www.rsuip.org/programmes/undergraduate/its/ Question: What is the course
+description/purpose of the tourism, hospitality and sports program? Answer: The
+objective of the program is to produce students with skills and education in the
+operational management of hospitality and tourism organizations with a
+particular focus on the management of food and beverages, front office systems
+and tourism processes.
+
+49
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Information and Communication Technology(ICT) Website:
+https://www.rsuip.org/programmes/undergraduate/ict/ Question: What degree will
+you get from theInformation and Communication Technology program? Answer: Full
+Title -Bachelor of Science (Information and Communication Technology)
+Abbreviated Title- B.Sc. ICT (Information and Communication Technology)
+Question: Why do you study in theInformation and Communication Technology(ICT)
+program? Answer: why you should study ict program at RIC • 1. World class
+teaching staff with an innovative learning environment. • 2. Sound digital
+transformation coping with dynamic society. • (Internet of Things, Big Data,
+Artificial Intelligence, etc.) • 3. Start-up initiatives and hand-on experience
+in laying groundwork for the coming future. • 4. Exclusive business
+collaborations with top leading IT companies (Microsoft, Google, Apple, Oracle,
+Cisco, Western Digital and etc.)
+
+43
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+• Holistic knowledge of communication • Modern and uniquely designed program to
+enhance career opportunities • World-leading academics and highly experienced
+lecturers • Multidisciplinary education • Third language proficiency • Local
+and/or abroad internship program • International experience • Outstanding mix of
+friends from all over the world Question: What are CAREER OPPORTUNITIES in the
+Communication Arts program? Answer: There continues to be a huge demand for
+graduate in all areas of Comm Arts, and employment prospects are excellent,
+which include: • Account Executive • Public Relations Practitioner • Copywriter
+• Columnist • News Editor • Event Organizer • Content Creator • Marketing
+Communications • Writer • Creative • Columnist • Blogger Question: What are
+ACADEMIC ENTRY REQUIREMENTS for Comm Arts? Answer: Completed Upper Secondary
+School (M.6 Certificate) or its equivalent as recognized
+
+48
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Question: What are career opportunities/ employment outcomes of the tourism,
+hospitality and sports program? Answer: Graduates of the program are highly
+employable across a range of organizations, not only within hospitality and
+tourism. Excellent career opportunities exist in operational management roles,
+hotel management, tourism & hospitality, international resorts and tourism
+consultancy. Question: Who is department head of the tourism, hospitality and
+sports program? Answer: the head of department of the tourism, hospitality and
+sports program is A.Nicha Chavalit, email: nicha.c@rsu.ac.th Question: How many
+credits do we need to finish the tourism, hospitality and sports program?
+Answer: We need 136 credits to finish. Question: What is the course structure
+for the tourism, hospitality and sports program? Answer: General Education(GE) -
+30 credits, Core Courses - 97 credits, Free Elective - 9 credits. For more
+details - https://www.rsuip.org/programmes/undergraduate/its/
+
+50
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+• 5. Active international internships and worldwide student exchange programs
+(Finland, Sweden, China, Australia, Singapore, Japan, Indonesia and etc.) • 6.
+3+1 Program with • > Murdoch University (Computer Science) • > University of
+Canberra (International Business) • > Yunnan University of Finance and Economics
+(Business Administration) • 7. Free transfer up to 90/126 credits for FREE • >
+HND/HNC and • > Diploma from related field Question: How many years to finish
+the ICT program? Answer: you need to study 4 years for ICT Program
+
+52
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Answer: the head of department of ICT Program is Assoc. Prof. Dr. Todsanai
+Chumwatana, email: todsanai.c@rsu.ac.th Line ID : todsanai Question: Who is ICT
+department secretary? Answer: the secretary of ICT program is Miss Kanokphan
+Sangngam P'Aor (Secretary), email: kanokphan.s@rsu.ac.th Question: How many
+credits do we need to finish Information and Communication Technology program?
+Answer: ICT Program need to study for 120 credits Question: What is the course
+structure for the ICT program? Answer: General Education - 30 credits,
+specialized core courses- 84 credits, free elective - 6 credits. For more
+details, please check https://www.rsuip.org/programmes/undergraduate/ict/
+International Relations and Development(IRD) Website:
+https://www.rsuip.org/programmes/undergraduate/ird/ Question: What degree will
+you get from the International Relations and Development program? Answer:
+Bachelor of Arts (International Relations and Development) Question: How long is
+the IRD program?
+
+53
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Answer: you need to study 4 years (Regular), 4.5 years (Double Degree: IRD +
+Institute of Political Science, or IRD + Institute of Economics) for
+International Relations and Development(IRD) program. Question: How much is the
+course fee for the IRD program? Answer: International Relations and
+Development(IRD) program fees is from 56,000 - 74,000 per semester. For more
+details please check https://www.rsuip.org/programmes/undergraduate/ird/
+Question: What is the course description/purpose of the IRD program?
+
+54
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Answer: The International Relations and Development (IRD) program studies the
+interconnected concepts of social, political, economic, cultural and
+environmental systems, and a global perspective in the analysis of growth and
+development. Question: What are career opportunities/ employment outcomes of the
+IRD program? Answer: Graduates of the program can work in international
+organizations, multinational firms, as well as in government and
+non-governmental organizations. Question: Who is the head of the department of
+the IRD program? Answer:the head of department of International Relations and
+Development(IRD) program Is Dr. Sasiphattra Siriwato, email:
+sasiphattra.s@rsu.ac.th Line: https://line.me/R/ti/g/4URalwwZ48 Civil
+Engineering Website:
+https://www.rsuip.org/programmes/undergraduate/civil-engineering/ Question: What
+degree will we get from civil engineering program? Answer: Bachelor of
+Engineering(Civil Engineering)
+
+55
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Question: How long do we need to finish the civil engineering program? Answer:
+you need to study 4 years for civil engineering program. Question: How much is
+the course fee for the civil engineering program? Answer:The program fees for
+civil engineering program is from 68,000 - 81,000 Bahts per semester For more
+details please check https://www.rsuip.org/programmes/undergraduate/civil-
+engineering/ Question: What is the course description/ purpose of the civil
+engineering program? Answer: The Bachelor of Engineering (Civil Engineering) is
+a program that has been approved and accredited by the Council of Engineers of
+Thailand (COE). The curriculum aims to produce graduates who are capable of
+working in the areas of surveying, design, construction management and
+infrastructure planning. It also covers areas like structural engineering, soil
+and foundation engineering, water resource engineering, and construction
+management
+
+56
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+engineering with sufficient background for graduates to carry on further
+research and higher studies. Question: What are the employment outcomes/ career
+opportunities after finishing civil engineering program? Answer: After
+completion of the program, graduates typically take the Professional Licensing
+Examination to become professional engineers. Excellent career prospects include
+design, project management, and research and development engineers in both the
+private and public sectors. Civil engineers are the dominant drivers in the
+development of infrastructure, and resource and environmental management of the
+country and its surrounding region. Question: Who is department head of civil
+engineering? Answer:the head of department of civil engineering program is
+A.Supattana Nirukkanaporn , email : wisit@rsu.ac.th
+
+57
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Question: How many credits do we need to finish the civil engineering program?
+Answer: there are 150 credits in civil engineering program they are Course
+structure ⇒ general education(GE) - 30 credits, Core courses(Area courses) - 114
+credits, free elective - 6 credits. For more details please visit
+https://www.rsuip.org/programmes/undergraduate/civil-engineering/ DIGITAL
+INNOVATION Website for digital innovation is
+https://www.rsuip.org/https/wwwrsuiporg/programmes/undergraduate/digital-innovation/
+Question: what degree will you get from Digital innovation? Answer: Bachelor of
+Science (Digital Innovation) DISTINCTIVE FEATURES OF DIGITAL INNOVATION PROGRAM,
+the good point of DIGITAL INNOVATION and why should you study digital innovation
+program at RIC is Tailored Curriculum: This program is designed around
+Artificial Intelligence (AI), addressing the current industry’s pressing demands
+and future trends.Practical Emphasis: Theoretical
+
+58
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+knowledge is complemented by hands-on experiences, enabling students to
+familiarize themselves with real-world AI tools and challenges.Diverse Skill
+Acquisition: Beyond AI, students gain proficiency in Cyber Security, Internet of
+things (IoT), Fullstack Development, and UX/UI Design, ensuring a well-rounded
+digital education.Efficient Duration: The three-year structure ensures a
+comprehensive education in a condensed timeframe, allowing graduates to embark
+on their careers sooner. Question: How many years do I need to study for digital
+innovation? Answer: You need to study 2.5 years for digital innovation program.
+Question: How many semesters does Rangsit University open? Answer: Rangsit
+university opens June, August and January Semesters Question: How many semesters
+does Rangsit International College open? Answer: Rangsit International College
+opens June, August and January Semesters English requirements for digital
+innovation program?
+
+59
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+To study Digital innovation program you need to have IELTS 5.5 or equivalent or
+passed the Rangsit University English Language Proficiency Test for English
+requirement. How much for Digital Innovation Program? Digital Innovation program
+fees is 574,600 Baht. Course description for digital innovation program is
+Rangsit University’s Digital Innovation Bachelor Program offers a comprehensive
+three-year journey into the world of digital technology, with a special emphasis
+on Artificial Intelligence (AI). Beginning with foundational concepts of AI and
+programming, the curriculum progresses to advanced data analytics and AI tool
+applications, culminating in real-world digital industry applications.
+Additionally, the program integrates essential modules on Cyber Security,
+Internet of things (IoT), Fullstack Development, and UX/UI Design.
+
+60
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+POTENTIAL CAREER PATHS FOR GRADUATES from digital innovation program: AI
+Specialist: Graduates can venture into roles centered on AI development,
+research, or consultancy across various sectors.Data Analyst: Armed with data
+analytics skills, graduates can interpret and predict trends, providing valuable
+insights for businesses.Cyber Security Expert: In an era of increasing digital
+threats, there’s a significant demand for professionals adept in safeguarding
+digital infrastructures.IoT Developer/Engineer: With the interconnected nature
+of modern devices, graduates can design, develop, and implement smart solutions
+in the rapidly growing field of the Internet of Things.Fullstack Developer:
+Graduates can design, develop, and maintain holistic web solutions, catering to
+both front-end and back-end requirements.UX/UI Designer: With a focus on
+user-centric design, graduates can shape digital interfaces that offer
+
+61
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+intuitive user experiences.Digital Consultant: Leveraging their comprehensive
+digital knowledge, graduates can advise businesses on optimizing their digital
+strategies and operations. The head of department of Digital innovation program
+is Name Asst. Prof. Dr. Karn Yongsiriwit. The email address of Asst. Prof. Dr.
+Karn Yongsiriwit is karn.y@rsu.ac.th. COMPUTER SCIENCE If you study computer
+science program at RIC you will get Bachelor of Science (Computer Science). Why
+you should study computer science program at RIC Cutting-Edge Curriculum: A
+program that stays up-to-date with the latest trends and technologies in
+computer science, such as artificial intelligence, machine learning, blockchain,
+image processing, and computer vision. Offers elective courses or
+specializations in emerging fields to prepare students for the future.
+State-of-the-Art Facilities: Access to cutting-edge computer labs, software, and
+hardware to facilitate hands-on learning and research. Practical
+
+62
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Experience: Hands-on experience is essential in this program. Students often
+complete coding projects, internships, or co-op placements to apply their
+knowledge in real-world scenarios. Culminates in a capstone or senior project
+where students apply their skills to solve real-world problems, often in
+collaboration with industry partners. How long you need to study for computer
+science program? You need to study 3 years for computer science program at RIC.
+In rangsit international college and rangsit university you can apply and study
+three semesters. June, August and January Semesters To study computer science at
+RIC you need to have English requirement IELTS 5.5 or equivalent or passed the
+Rangsit University English Language Proficiency Test The course fees for
+computer science program is 545,700 Baht The course description of computer
+science is The Computer Science program at Rangsit University is designed to
+equip students with the knowledge and skills needed to thrive in the
+
+63
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+rapidly evolving field of digital technology. It combines theoretical
+foundations with practical applications, preparing graduates for careers in a
+wide range of industries, from software development and data science to big data
+analytics and artificial intelligence. Furthermore, programs offer
+specializations that allow students to delve deeper into specific areas of
+computer science, such as: machine learning, data mining, web and mobile app
+development, and Internet of Things (IOT). POTENTIAL CAREER PATHS FOR GRADUATES
+for Computer Science Program: Software Developer/Engineer: • Design, develop,
+and test software applications and systems. • Specialize in areas like web
+development, mobile app development, or game development. Data
+Scientist/Analyst: • Analyze large datasets to extract meaningful insights and
+inform business decisions. • Build predictive models and machine learning
+algorithms. Database Administrator (DBA):
+
+64
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+• Design, implement, and manage databases to store and retrieve data
+efficiently. • Ensure data integrity and security. Artificial Intelligence (AI)
+Engineer/Researcher: • Develop AI algorithms, neural networks, and machine
+learning models. • Apply AI techniques to solve complex problems in various
+domains. DevOps Engineer: • Streamline the software development and deployment
+process through automation and collaboration between development and IT
+operations teams. • Use tools like Docker, Kubernetes, and Jenkins. IT Project
+Manager: • Lead and coordinate technology projects, ensuring they are completed
+on time and within budget. • Oversee teams of developers and engineers.
+Front-End or Back-End Web Developer: • Front-End Developers work on creating the
+user interface and user experience of websites and web applications. • Back-End
+Developers work on server-side logic and database interactions. A Computer
+Science program at Rangsit University provides students with a versatile skill
+set
+
+65
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+and opens doors to a wide range of exciting career opportunities in our
+increasingly digital world. The program’s blend of theory, practical experience,
+and adaptability makes it a valuable choice for those interested in technology
+and innovation. BIOMEDICAL ENGINEERING Bachelor degree for Biomedical
+engineering program is Bachelor of Engineering (Biomedical Engineering).
+Biomedical engineering program needs to study 4 years. Biomedical engineering
+program can study these three June, August and January Semesters but note that
+Students who enrolls in January semester will take time of studying for 4.5
+years due to the program schedule The program fees for Biomedical engineering
+program is 36,000 - 86,000 baht per semester and for the whole program is
+640,000 baht.
+
+66
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+The course description for biomedical engineering program is Biomedical
+Engineering is a multi-disciplinary program integrating engineering activities
+with basic medical knowledge of human physiology and an understanding of how it
+functions to assist healthcare providers in supplying better care and treatment
+to patients through the use of technology. During the 21st century, various
+advances in the field of medicine have been made, such as diagnostics devices,
+therapeutic devices, medical robotic, medical imaging, rehabilitation
+engineering, life support systems, biomaterials and tissue engineering. Advances
+in technology for the need to find cure, promote well-being and build healthy
+communities make Biomedical Engineers one of the most in-demand positions for
+the healthcare industries, which is one of the world’s largest industrial
+sectors with a turnover approaching more than 20 billion USD per annum and an
+expanding rate
+
+67
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+of 9% per annum. To keep updated in healthcare services and solutions, advanced
+techniques like AI, machine learning and Big Data are integrated into this
+program. Students are also encouraged to join overseas exchange programs,
+cooperative education and pursue the 4+1 track of the master degree program.
+KNOWLEDGE, SKILLS AND COMPETENCIES OF GRADUATES of Biomedical Engineering
+program is 1. Have the basic skills in research and development for inventing
+new innovated devices and also become a business owner in the biomedical
+engineering industry. 2. Understand the principles of biomedical engineering in
+research and development, in production and quality control at government or
+private companies engaged in the manufacturing of medical devices.
+
+69
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+4. Specialists in research and development, in production or quality control
+department of government agencies or private companies engaged in the
+manufacture of medical devices 5. Sales executive in businesses engaged in
+medical devices 6. Set-up own business in the sale, service or consultation in
+the fields of medical equipment and biomedical engineering 7. Pursue higher
+education in Biomedical Engineering and related fields FIELDS OF RESEARCH AND
+INNOVATION IN BIOMEDICAL ENGINEERING:
+
+51
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Question: How much is the course fee for the ICT program? Answer:the ICT program
+fees can cost from 56,000 - 65,000 per semester. For more details, please visit
+https://www.rsuip.org/programmes/undergraduate/ict/ Question: What is COURSE
+DESCRIPTION/PURPOSE for ICT program? Answer: The Information and Communication
+Technology (ICT) program challenges the minds of students by teaching them how
+to find, process, assimilate and use the vast amounts of information that exists
+in today’s globalized world. Question: What are career opportunities /
+employment outcomes after finishing the ICT program? Answer: There continues to
+be a huge demand for graduates in all areas of ICT and employment prospects
+commonly include virtual reality and game development, computer graphics
+programming, web development and programming, system analysis and engineering,
+network administration, and robotics engineering. Question: Who is ICT
+department head?
+
+70
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+1. Biomedical Instrumentation 2. Medical Signal and Image Processing 3.
+Artificial Intelligence and Medical Robotics 4. Clinical Engineering 5.
+Biophysics and Medical Optics 6. Medical Material and Tissue Engineering 7.
+Smart Innovation and Rehabilitation for the Elderly 8. Information System for
+Medical Management 9. Metaverse in Healthcare and Medical Applications COURSE
+DESCRIPTION/PURPOSE and why you should study biomedical engineering program at
+RIC To produce Bachelor of Engineering in Biomedical Engineering with the
+following virtues and knowledge. 1. Have basic skills in research and
+development in the field of biomedical engineering for inventing new things as
+well as being a business owner in biomedical engineering. 2. Understand the
+principles of biomedical engineering in the field of research and development,
+production or quality control of government organizations or private companies
+engaged in the manufacture of medical devices.
+
+71
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+3. Maintenance, repair, modification, and application of medical devices,
+hospital engineering including medical technology assessment. 4. Management of
+procurement, using, distribution and consultancy in biomedical engineering
+works. 5. Postgraduate studies in biomedical engineering or related fields. 6.
+Having good ethics and ethics, competency in both national and international
+competitions and professional readiness. EMPLOYMENT OUTCOMES of biomedical
+engineering program is 1. A biomedical engineer or clinical engineer in
+biomedical engineering unit, both public and private sectors. 2. Service
+Engineer for medical device Service companies. 3. Product Specialist or Product
+Applicationist in businesses involved in medical devices, both public and
+private sectors. 4. Biomedical Engineers or Research and Development or
+Production or Quality Control Departments of government agencies or private
+companies engaged in the manufacture of medical devices.
+
+72
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+medical devices. 5. Medical Device Sales Representative for Private Medical
+Device Business. 6. Carry out personal business in the sale, service or
+consultation in the field of medical equipment or biomedical engineering. 7.
+Higher education in Biomedical Engineering or related fields. The head of
+department of Biomedical engineering program is Assist.Prof.Dr.Sani Boonyagul
+and the email address is sani@rsu.ac.th The coordinator of Biomedical
+engineering program is Khun Pakit (Therng) and the email address is
+pakit.p@rsu.ac.th
+
+68
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+3. Maintenance, repair, modification, and application of medical devices, and
+hospital engineering including assessments of medical technology. 4. Management
+of procurement, use, and distribution of consultancy projects in biomedical
+engineering works. 5. Pursue postgraduate studies in biomedical engineering and
+related fields 6. Having good ethics and morals, possessing academic competency
+in both national and international competitions and professional readiness
+POTENTIAL CAREER PATHS FOR GRADUATES of biomedical engineering program is Upon
+completion, graduates will be able to invent new biomedical instruments and
+select new technologies that are necessary and suitable in servicing,
+maintenance and application of medical devices. Potential career paths include
+1. Biomedical engineer or clinical engineer in both public and private sector 2.
+Service engineer for medical devices 3. Product specialist for businesses
+involved in medical devices, both public and private sector
+
+74
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+and accredited by the Council of Engineers of Thailand (COE). The curriculum
+aims to produce graduates who are capable of working in the areas of surveying,
+design, construction management and infrastructure planning. It also covers
+areas like structural engineering, soil and foundation engineering, water
+resource engineering, and construction management engineering with sufficient
+background for graduates to carry on further research and higher studies.
+Question: What are the employment outcomes/ career opportunities after finishing
+civil engineering program? Answer: After completion of the program, graduates
+typically take the Professional Licensing Examination to become professional
+engineers. Excellent career prospects include design, project management, and
+research and development engineers in both the private and public sectors. Civil
+engineers are the dominant drivers in the development of infrastructure, and
+
+76
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Question: What degree can we get from the Design program? Answer: Bachelor of
+Fine Arts in Design (College of Design) Question: How long does it take to
+finish the Design program? Answer: you need to study 4 years for Design program.
+Question: How much is the course fee for the Design program? Answer: 40,000 -
+70,000 per semester. For more details please go to the website.
+https://www.rsuip.org/programmes/undergraduate/design/ Question: What is the
+course description/purpose of the Design program? Answer: Design department
+course focuses on students to be different both in terms of ideas and designs.
+Through the design thinking process based on rationality. In which students can
+choose to combine courses selected from Interior Design, Fashion Design
+Communication Arts And Photographic department to suit your aptitudes to develop
+a new type of designers and entrepreneurs, who dare to think and not cling to
+traditional designs and can apply what they have learned in real work
+environments.
+
+77
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Question: Who is department head of the Design program? Answer: I do not have
+data about it. Please contact RIC International program office at Building 11
+2nd floor. Question: What are career opportunities/ employment outcomes for the
+Design program? Answer: Designers, Product Designers, entrepreneur and related
+Design career. Question: What are the international and professional experiences
+for the Design program? Answer: Student exchange, internship abroad, study tour
+and field trips, cooperative studies, professional training and workshops under
+collaborations with RSU’s partners universities, professional associations and
+industries. Question: What will students learn from the Design program? Answer:
+Students will Practice the Design thinking Process, an essential skill for every
+profession. From design subjects in each term, learn to combine design with
+other sciences to create different ideas or ways of thinking. From subjects that
+emphasize on hands-on, laying the
+
+75
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+resource and environmental management of the country and its surrounding region.
+Question: Who is department head of civil engineering? Answer: The head of civil
+engineering program is A.Supattana Nirukkanaporn , email : wisit@rsu.ac.th
+Question: How many credits do we need to finish the civil engineering program?
+Answer: 150 credits. Course structure ⇒ general education(GE) - 30 credits, Core
+courses(Area courses) - 114 credits, free elective - 6 credits. For more details
+please visit https://www.rsuip.org/programmes/undergraduate/civil-engineering/
+Design Program The Website for design program is
+https://www.rsuip.org/programmes/undergraduate/design/
+
+79
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Fashion Design Program Website for fashion design program is Website:
+https://www.rsuip.org/programmes/undergraduate/fashion-design/ Question: What
+degree will we get from the Fashion Design program? Answer: Bachelor of Fine
+Arts Question: How long do we need to finish the Fashion Design program? Answer:
+You need to study 4 years for Fashion Design Program. Question: How much is the
+course fee for the Fashion Design program? Answer: 40,000 - 70,000 Bahts per
+semester For more details please check
+https://www.rsuip.org/programmes/undergraduate/fashion-design/ Question: What is
+the course description/ purpose of the Fashion Design program? Answer:
+Department of fashion design aims at shaping a fashion designer to become a
+leader in creativity, with deep understanding of contemporary design, fully
+equipped with the skills required to craft intricate details. They explore
+innovative designs through design research and
+
+80
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+experimenting on new materials and techniques, both by hand and machine. The
+study also covers essential aspects of fashion ranging from high fashion,
+ready-to-wear, fashion trends to fashion business. Question: What are the
+employment outcomes/ career opportunities after finishing the Fashion Design
+program? Answer: Fashion designer, Fashion Stylist, Textile designer Retail
+buyer, Clothing/textile technologist, Fashion marketing or PR specialist,
+Fashion journalist or blogger, Fashion product manager, Fashion trend Analyst,
+Magazine journalist, Personal stylist shopper, Fashion show organizer, Fashion
+studio owner, Pattern maker, Accessories Designer, Costume Designer, Make-up
+artist, Retail manager / Retail buyer / Retail merchandiser, Retail
+merchandiser, Textile buyer, Visual merchandiser, Online merchandiser, Event
+manager, Jewelry designer, Public relations officer Question: Who is department
+head of the Fashion Design program?
+
+81
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Answer: the head of fashion design program is Aj. Laddawan Sarapat , email :
+laddawan.s@rsu.ac.th Question: Program coordinator for the Fashion Design
+program? Answer: Program coordinator for the Fashion Design program is Khun
+Namkhang email: Thanyasorn.m@rsu.ac.th Question: For other details about Fashion
+Design program Answer: Search on the website
+https://www.rsuip.org/programmes/undergraduate/fashion- design/ or contact
+department head or ask RIC International Office.
+
+82
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Interior Design Program The Website for interior Design program is
+https://www.rsuip.org/programmes/undergraduate/interior-design/ Question: What
+degree will we get from the Interior Design program? Answer: Bachelor of Fine
+Arts Question: How long do we need to finish the Interior Design program?
+Answer: You need to study 4 years for Interior Design program Question: How much
+is the course fee for the Interior Design program? Answer: Total course fee
+estimated 568,200 Bahts. For more details please check
+https://www.rsuip.org/programmes/undergraduate/interior-design/ Question: What
+is the course description/ purpose of the Interior Design program? Answer:
+Department of interior design is committed to cultivating creativity among the
+learners to be the driving force behind the learning and the design process as
+well as the operation and practice at the individual level and as part of the
+team. Department of interior design develops
+
+83
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+the up to date curriculum to facilitate the grooming of analytical thinking,
+problem solving skill and creative solutions that respond to the users and the
+usage of space. It also takes into consideration the role of designers in
+contemporary society that requires the development of knowledge for sustainable
+design and environmental considerations, alongside the design process. Question:
+What are the employment outcomes/ career opportunities after finishing the
+Interior Design program? Answer: Interior designer,Interior design consultant,
+Design researcher, Furniture designer, Interior product designer, Lighting
+designer, Event and exhibition designer, Prop designer, Set designer, Interior
+design stylist, Interior visualizer, Material supervisor, Project manager,
+Construction manager, Site supervisor, Interior contractor, Window display
+designer, Interior studio owner Question: Who is department head of the Interior
+Design program?
+
+84
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Answer: department head of the Interior Design program is Mr. Waris Sinsuebpol ,
+email : waris.s@rsu.ac.th Question: Who is program coordinator for the Interior
+Design program? Answer: program coordinator for the Interior Design program is
+Ms. Thanyasorn Meesomsak email: thanyasorn.m@rsu.ac.th Question: For other
+details about Interior Design program Answer: Search on the website
+https://www.rsuip.org/programmes/undergraduate/interior- design/ or contact
+department head or ask RIC International Office. Biomedical Science Program. The
+Website for Biomedical Science Program is
+
+85
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+https://www.rsuip.org/programmes/undergraduate/biomedical-science/ Question:
+What degree will we get from the Biomedical Science program? Answer: Bachelor of
+Science (Biomedical Science); B.Sc. (Biomedical Science) Question: How long do
+we need to finish the Biomedical Science program? Answer: You need to study 4
+years for the Biomedical Science program Question: How much is the course fee
+for the Biomedical Science program? Answer: 36,000 - 86,000 bahts for each
+semester. For more details please check
+https://www.rsuip.org/programmes/undergraduate/biomedical-science/ Question:
+What is the course description/ purpose of the Biomedical Science program?
+Answer: Biomedical sciences provide an understanding of human body and the way
+it works. These involve areas such as Anatomy, Biochemistry, Ergonomics,
+Microbiology, Pathology, Pharmacology and Physiology. All students will be
+trained not only in biomedical research skill
+
+86
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+but also basic and advanced knowledge in the biomedical field. Graduates are
+prepared for pursue professions allied with biomedical research. The curriculum
+aims to produce flexible and well informed graduates with specific training in a
+wide range of biomedical applications of the basic sciences. The course will
+provide strategic training in the fundamentals of biomedical science and a
+unique blend of genome science, biotechnology and bioinformatics. Question: What
+are the employment outcomes/ career opportunities after finishing the Biomedical
+Science program? Answer: Completion of the course will provide the graduate with
+the skills to enter a vast range of health-related industries including: Medical
+Research; Physiotherapy; Microbiology; Health Informatics; Occupational Health
+and Safety; Pharmaceutical Industry; Laboratory Technology. Question: Who is
+department head of the Biomedical Science program?
+
+87
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Answer: department head of the Biomedical Science program is Mr. Waris
+Sinsuebpol , email : waris.s@rsu.ac.th Question: Who is program coordinator for
+the Biomedical Science program? Answer: program coordinator for the Biomedical
+Science program is Ms. Thanyasorn Meesomsak email: thanyasorn.m@rsu.ac.th
+Question: How many credits do we need to finish the Biomedical Science program?
+Answer: 130 credits with course structure - General Education 30 credits, Area
+courses - 94 credits, Free elective - 6 credits. In area courses, we need basic
+science courses - 17 credits, major courses - 77 credits. For more course
+structure details please go to the website.
+https://www.rsuip.org/programmes/undergraduate/biomedical-science/ Who is the
+president of Rangsit University International College? Dr.Attawit Ourairat is
+the president of Rangsit University International College.
+
+88
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Can you tell me about Rangsit University? Rangsit University, a Leading Private
+University in Thailand.Rangsit University is a private institution of higher
+education with the primary aim of creating graduates in the area of study
+meeting the requirements of national development by focusing mainly on science ,
+technology, design and management including independent professions which are
+requisites in development of one's own career. Where is Rangsit University
+located? Rangsit University is located in Pathumthani, a neighbouring province
+directly north of Bangkok. Phatumthani is situated in the Chao Phraya basin and
+contains many canals and agricultural plantations where rice, vegetables and
+various fruits are grown. Its original name was Mueang Sam Khok, and was senled
+by the Mon people migrating from Mohtama (in Myanmar) over 350 years ago. There
+are many interesting places located in the province such as the National Science
+Museum,
+
+89
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+numerous historical temples, renowned markets such as Klong Sam Floating Market
+and Talad Thai, one of the largest shopping malls in Thailand called Future Park
+Rangsit, the famous Dream World Amusement Park, The Supreme Artist Hall and the
+National Archives in Commemoration of H.M. the King’s Golden Jubilee. The
+province is also considered to be an ‘Education and Technology Hub’ with a high
+concentration of higher education institutions, many research agencies and
+institutes and a number of industrial parks. Pathumthani is also very accessible
+to Bangkok via car, bus, train and taxi. How to get to Rangsit University from
+Suvarnabhumi Airport? You can get to Rangsit University from Suvarnabhumi
+Airport by Line 554 Public Van, Taxi and BTS Train. How to get to Rangsit
+University from Don Muang Airport? You can get to Rangsit University from Don
+Muang Airport by Taxi, Train and Pick-up Truck(Songthaew) . Why do I have to
+choose RSU among other universities?
+
+91
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+What are the missions of RIC? Why do I have to choose RIC among other
+universities? RIC’s mission is to provide accessible, personalized, high quality
+educational opportunities for local and international students to ensure that
+they develop the necessary academic skills and excel in their future careers and
+studies. Within a supportive community that encourages students to seek learning
+with eagerness, to respect diversity in viewpoints, to participate in variety of
+activities both inside and outside of the classroom, RIC guides students to the
+means of transforming themselves into confident, capable, and committed leaders
+in their fields. In the culturally diverse learning environment at RIC, which
+emphasizes student engagement in community, cultural, and civic concerns, each
+student will have the opportunity to prepare themselves for lifelong success in
+the 21st century’s global society. Who is the Dean of Rangsit International
+College?
+
+78
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+foundation of ideas and knowledge to be ready for the future and able to apply
+in real work environments and focus on being an entrepreneur. Question: IF
+STUDENT WANTS TO COME, WHAT THEY SHOULD BE PREPARE? Answer: Reasonable thinking
+and searching person. (need more, you can thinking about it) Question: For other
+questions about Design program Answer: Search in the website
+https://www.rsuip.org/programmes/undergraduate/design/
+
+92
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Asst.Prof.Dr. Kritsada Sriphaew (Aj.Kong) is the Dean of Rangsit International
+College. Who is the Associate Dean for student affairs of Rangsit International
+College? Prinda Setabundhu (Aj.Pap) is the Associate Dean of Rangsit
+International College. Who is the Associate Dean for academic affairs of Rangsit
+International College? Amporn Puapradit is the Associate Dean for Academic
+Affairs of Rangsit International College. Who is the Associate Dean for
+administration affairs of Rangsit International College? Malisuwan (Aj.Koy) is
+the Associate Dean for Administration affairs of Rangsit International College.
+Who is the head of the International Business Programme? Ussanee Malisuwan
+(Aj.Koy) is the head of the International Business Programme. Who is the head of
+the Information and Communication Technology Programme? Assoc.Prof.Dr.Todsanai
+Chumwatana (Aj.Noey) is the head of the Information and Communication Technology
+Programme
+
+93
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Who is the head of the International Digital Business Programme? Asst. Prof. Dr.
+Suttisak Jantavongso (Aj.Goke) is the head of the International Digital Business
+Programme. Who is the head of General Education (International)? Edward Devere
+Bacon (Aj.Eddie) is the head of General Education (International). Who are the
+lecturers of general education? Asst.Prof.Gessanee Maneerat (Aj.Gessy), Dr.Bruce
+Edward Weeks, Timothy Boundy (Aj.Tim), Maksim Pisarev, Roongkan Nedtranon,
+(Aj.Bee), Irian Pievskaya. Who is Dr.Anna Davtyan?
+
+94
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Dr.Anna Davtyan is lecturer of International Digital Business. Who is Srisongruk
+Prohmvitak, (Aj.Tap)? Srisongruk Prohmvitak, (Aj.Tap) is lecturer of
+International Business Programme. Who are the lecturers of Information and
+Communication Technology? The lecturers of Information and Communication
+Technology are Dr.Prashaya Fusiripong(Aj.Nueng), Billel Arbaoui (Aj.Bill),
+Dr.Herison Surbakti . The address of Rangsit University RSU is 52/347 Muang-Ake
+Phaholyothin Road Lak-Hok Muang Pathumthani 12000 , Thailand phone number of
+Rangsit International College RIC and RSU + 66 (0)2 997-2200 ext 4012, 4019
+_____________ List undergraduate programs INTERNATIONAL PROGRAMMES for
+Undergraduate There are 13 undergraduate programs for Rangsit International
+College 1. International Business Program 2. Communication Arts Program 3.
+Tourism, Hospitality and Sports Program 4. Information & Communication
+Technology Program 5. International Relations and Development Program
+
+95
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+6. Civil Engineering Program 7. Design Program 8. Fashion Design Program 9.
+Interior Design Program 10. Biomedical Science Program 11. Biomedical
+Engineering Program 12. Computer Science Program 13. Digital Innovation Program
+PostGraduate Programs at Rangsit International College RIC There are 10
+postgraduate programs at RIC 1. Diplomacy and International Studies Program 2.
+International Digital Business Program 3. Curriculum and Instruction Program 4.
+Bilingual Education Program 5. Design Program 6. Logistics Program 7.
+Communication Arts Program 8. Communication Arts in Film and Series Writing and
+Directing Program 9. Electrical and Computer Engineering Program 10. Cyber
+Security Management and Technology Program Bilingual Education Program
+(Postgraduate)
+
+90
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Rangsit University, is a leading private university in Thailand accredited by
+the Thai Government. Renowned for academic excellence and international teaching
+standards, RSU consistently achieves the highest rating in quality assurance
+audits by the Ministry of Education and the Thai Office for National Education
+Standards and Quality Assessment. Established in 1986, RSU enrolls over 28,000
+students in 134 degree programs, including 87 undergraduate, 36 master's, and 11
+doctoral degrees. The main campus, situated on a 296 rai site in Pathumthani
+Province, offers an ideal study environment just 30 minutes from downtown
+Bangkok. Surrounded by golf courses, lakes, sporting facilities, restaurants,
+and shopping options, the campus provides a comprehensive experience. RSU, known
+for its accessible accommodation, is well-connected by public transport for
+students desiring proximity to Bangkok.
+
+97
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+designed to fill this need. The program thats designed at RSU will provide
+professional education in international studies covering the entire spectrum of
+international relations. Hence, this will be an intensive training course that
+will focus on practical skills (e.g. negotiation techniques, diplomatic
+practices, media skills, rhetoric, and languages). After completion of the
+M.Ed.(Bilingual Education), students will be able to work and travel all over
+the world. RSU aims to produce professionals for positions of leadership and
+influence in foreign affairs in the international business aspect of life.
+Teacher Teacher Educator Administrators Tutor Educator Postgraduate of
+International Digital Business (MIDB) program You will get Master of Science
+Programme in International Digital Business (International Programme), M.Sc.
+(International Digital Business) For Postgraduate of International Digital
+Business program you need to study 1 year.
+
+96
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+After you finish study of Bilingual Education Program (Postgraduate) you will
+get Master of Education. You need to study 2 years . There are two intakesAugust
+(1st Semester), January (2nd Semester). The program fees for Bilingual Education
+Program (Postgraduate) is 320,400 Baht (2 years degree). For English
+Requirements IELTS 5.0 or equivalent or passed the Rangsit University English
+Language Proficiency Test The course description, purpose and why you should
+study Bilingual Education Program (Postgraduate) is The world today is
+characterised by rapid change and growing interdependence among nations in all
+areas of human endeavours. Hence, nations need professionals in foreign affairs
+who can serve in governments, international organisations, non-government
+organisations, and international business. In Southeast Asia, there is no
+specialised institution which caters to this specific need. The Institute of
+Diplomacy and International Studies (IDIS) is
+
+73
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+The website for Biomedical Engineering program is
+https://www.rsuip.org/programmes/undergraduate/bio-eng/ Civil Engineering
+Program Website of civil engineering program is
+https://www.rsuip.org/programmes/undergraduate/civil- engineering/ Question:
+What degree will we get from civil engineering? Answer: Bachelor of
+Engineering(Civil Engineering) Question: How long do we need to finish the civil
+engineering program? Answer: You need to study 4 years for civil engineering
+program. Question: How much is the course fee for the civil engineering program?
+Answer: 68,000 - 81,000 Bahts per semester For more details please check
+https://www.rsuip.org/programmes/undergraduate/civil-engineering/ Question: What
+is the course description/ purpose of the civil engineering program and why
+should you study civil engineering at Rangsit International College? Answer: The
+Bachelor of Engineering (Civil Engineering) is a program that has been approved
+
+100
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+• 2 Recommendation Letters • 4 photos (1”x1.5”) (possible to take photos at RSU)
+The contact information about International digital business (MIDB) Program is
+email is midb.rsu.ac.th lineID @midb telephone is (+66)626514232 for more
+information
+https://www.rsuip.org/programmes/postgraduate/international-digital-business/
+The head of department of International digital business (MIDB) Program is
+Suttisak Jantavongso To know more about postgraduate Curriculum and Instruction
+Program, Please contact RIC Building 11 2 nd Floor. To know more about
+postgraduate Bilingual Education Program, Please contact RIC Building 11 2 nd
+Floor.
+
+99
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Program Information about Postgraduate of International Digital Business (MIDB)
+program 1 Year (Full-Time) Study time; weekdays and weekend Study* short
+programme with partner universities with certification Multi-discipline of
+Business, Innovation and Digital Technology Company Visit every Semester 100%
+English Programme Outing Trip to Explore Thailand Advantage of working with
+leading companies Practical knowledge from industry’s experts Research
+publication benefits for further studies Multi-cultural environment * require
+small fees DOCUMENTS FOR ONLINE APPLICATION at International digital business
+(MIDB) Program. Scanned files of the followings • Passport or Thai Citizen ID •
+Official Transcript • Official Bachelor’s Degree Certificate • English
+Proficiency Result (if any) and submit below DOCUMENTS FOR REGISTRATION MIDB
+Program AT RSU Original docs of the followings • Passport | Thai Citizen ID •
+Official Transcript • Official Bachelor’s Degree Certificate
+
+102
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+addition to creating desirable products, designers worldwide are increasingly
+being called upon to solve complex problems facing our society. With Thailand
+becoming part of the AEC, the challenges are even more complex. The Master of
+Fine Art program in Design aims to step up to these challenges by training
+students from diverse backgrounds in “design thinking”, which is a way of
+framing and understanding the given situation and invent new possibilities and
+solutions for the future. Students get trained in a unique multidisciplinary
+hands-on approach to help them hone their creativity, learn & practice the
+skills that help them succeed in many roles in a range of diverse fields
+including product and communication design, design research, design & business
+strategy. Master of Fine Art & Design intoduces you to many opportunuties in for
+the field of design which include; Design Entrepreneur Interior Designer Graphic
+Designer Product Designer Furniture Designer.
+
+101
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Postgraduate Master of Design you will get this degree for Postgraduate Master
+of Design is Master of Fine Arts (Design). To study Postgraduate Master of
+Design you need to study 2 years. There are 3 semesters open for these Master of
+Design are June (Summer), August (1st Semester), January (2nd Semester). How
+much do you need to pay and cost for Master of Design program? You can cost
+210,000 Thai Baht for two years. ( Approximately USD 5,900 ) for Master of
+Design Program. English requirements for master of design program is IELTS 5.0
+or equivalent or CUTEP 40. COURSE DESCRIPTION/PURPOSE and why you should study
+Master of Design is The practice of design has evolved considerably over the
+last two decades. It was predominantly a craft-based, cultural- product centric
+profession, focussed on creating beautiful products. Today, the global landscape
+of design, business and technology has changed considerably, in
+
+104
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+LOGISTICS CONCEPT & ADAPTATION TRANSPORTATION ANALYSIS WAREHOUSE & INVENTORY
+MANAGEMENT SUPPLY CHAIN MANAGEMENT LOGISTICS EXPERTS SHARING ENGLISH LANGUAGE
+REQUIREMENTS for logistics program postgraduate is IELTS 5.5 or equivalent or
+passed the Rangsit University English Language Proficiency Test The logistics
+postgraduate program fee is 87,000 Baht per semester plus application fee 515
+Baht for the whole program is 348,515 Baht. You need to study 2 years. You can
+study Master of Science(Management of Logistics) in these semesters August and
+January Semesters CAREER OPPORTUNITIES for Master of Science(Management of
+Logistics) is Logistics Entrepreneurs, Logistics Executive, Logistics Analysts,
+Logistics Government Officer, Logistics Consultant, etc. for more details
+https://www.rsuip.org/programmes/postgraduate/logistics/ The website of study
+Master of Science(Management of Logistics) , postgraduate of logistics is
+https://www.rsuip.org/programmes/postgraduate/logistics/
+
+103
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+The website for postgraduate master of design is
+https://www.rsuip.org/programmes/postgraduate/design/ Head of master of fine Art
+& Design Program is Asst. Prof. Rewat Chumnarn. The email address is Email:
+rewat.c@rsu.ac.th The coordinator for Fine Art & Design program prompt is
+Program Coordinator: Panya Zahoh. The email address is panya.z @rsu.ac.th.
+Postgraduate Master of logistics program For that program you will get Master of
+Science(Management of Logistics) degree CORE CONCEPTS of Master of logistics
+program
+
+106
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+for Communication Arts in Film and Series Writing and Directing post graduate
+program You can Communication Arts in Film and Series Writing and Directing post
+graduate program in these semesters August and January Semesters. You need to
+study 2 years. English requirements for this program is IELTS 5.5 or equivalent
+or passed the Rangsit University English Language Proficiency Test. The course
+fees for Communication Arts in Film and Series Writing and Directing post
+graduate program is 97,000 Baht per semester plus application fee 515 Baht and
+the whole program fees is 388,515 Baht. The head of program of Communication
+Arts in Film and Series Writing and Directing postgraduate program is Asst.
+Prof. Dr. Chalongrat
+
+107
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Chermalchollamak and the email is chch_ch@hotmail.com,
+gradcommarts.rsu@gmail.com. The coordinator of that program is Khun Pakkard and
+email is vinusta.w@rsu.ac.th ELECTRICAL AND COMPUTER ENGINEERING Postgraduate
+program After you finish study you will get Master of Engineering degree. You
+need to study 2 years. English requirements for this program is IELTS 5.5 or
+equivalent or passed the Rangsit University English Language Proficiency Test.
+The program fees of ELECTRICAL AND COMPUTER ENGINEERING Postgraduate program is
+87,000 Baht per semester plus application fee 515 Baht and the total fees is
+348,515 Baht. The head of department of ELECTRICAL AND COMPUTER ENGINEERING
+Postgraduate program is Asst. Prof. Dr. Supattana Nirukkanaporn and email
+address is supattana@rsu.ac.th. The coordinator of the program is Khun Wasana
+Aungern and email address is wasana@rsu.ac.th. CYBER SECURITY MANAGEMENT AND
+TECHNOLOGY postgraduate program
+
+108
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+After you finish you will get this degree Master of Science (Cyber Security
+Management and Technology). CORE CONCEPTS of CYBER SECURITY MANAGEMENT AND
+TECHNOLOGY postgraduate program is Cyber Security Management Technology and
+Research Database System Technology Data Science and Machine Learning System
+Implementation and Management You need to study 2 years. English requirements
+for this program is IELTS 5.5 or equivalent or passed the Rangsit University
+English Language Proficiency Test. The program fee is 87,000 Baht per semester
+plus application fee 515 Baht and for the total program fees of CYBER SECURITY
+MANAGEMENT AND TECHNOLOGY postgraduate program is 348515 baht. The head of
+program of CYBER SECURITY MANAGEMENT AND TECHNOLOGY postgraduate program is
+Asst. Prof. Dr. Auttapon Pomsatit and email is auttaton.p@rsu.ac.th The
+coordinator of the program is Khun Piyavadee Chisomboon and email is
+piyavadee.m10@gmail.com. There are 4 doctor program at Rangsit International
+College
+
+111
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+COMMUNICATION ARTS is 100,000 Baht per semester plus application fee 515 Baht
+and the total fees of the program is 600515 baht. The head of program of Doctor
+Program of COMMUNICATION ARTS program is Asst. Prof. Dr. Chalongrat
+Chermalchollamak and the email is chch_ch@hotmail.com,
+gradcommarts.rsu@gmail.com. The coordinator of that program is Khun Pakkard and
+email is vinusta.w@rsu.ac.th Doctor program of EDUCATIONAL STUDIES after you
+finish study you will get Doctor of Education. You need to study 3 years. The
+credits requirement for the program is 48 credits. English requirements for this
+program is IELTS 5.5 or equivalent or passed the Rangsit University English
+Language Proficiency Test. The program fees of Doctor Program of EDUCATIONAL
+STUDIES is 100,000 Baht per semester plus application fee 515 Baht and the total
+fees of the program is 600515 baht. . The head of program of Doctor Program of
+educational studies program is Asst. Prof. Dr. Pimurai Limpapath and the email
+is
+
+105
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Postgraduate program of Master of Communication Arts After you finish study you
+will get Master of Communication Arts (Communication Arts). You can study Master
+of Communication Arts (Communication Arts) in these semesters August and January
+Semesters. You need to study 2 years. English requiremetns for this program is
+IELTS 5.5 or equivalent or passed the Rangsit University English Language
+Proficiency Test The program fees of Master of Communication Arts is 95,000 Baht
+per semester plus application fee 515 Baht CORE CONCEPTS of get Master of
+Communication Arts (Communication Arts). • Wholistic and Integrated Program •
+Communication Arts Theories, Philosophy and Practice • Multi-Disciplinary
+Research • Integrated Community Research Communication Arts in Film and Series
+Writing and Directing postgraduate program You will get this degree Master of
+Communication Arts (Film and Series Writing and Directing)
+
+110
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+Plan B: 144,000 Baht per semester plus application fee 515 Baht, Total 1,008,515
+Baht The head of department of Doctor of Business Administration Program Is Dr.
+Chanakeait Samanbhud and email samintertrade@hotmail.com and WeChat/Line:
+artman99. The coordinator is Khun Phet and email is tadakarn.k@rsu.ac.th and
+WeChat/Line: petchtada/sorcierer Doctor Program of COMMUNICATION ARTS after you
+finish study you will get Doctor of Philosophy (Communication Arts). CORE
+CONCEPTS of program is Holistic Communication Approach Communication Theories
+Communication Criticism Communication Practice How long do you need to study for
+Doctor Program of COMMUNICATION ARTS Program You need to study for 3 years.
+Credit requirements for this program is 48 credits. English requirements for
+this program is IELTS 5.5 or equivalent or passed the Rangsit University English
+Language Proficiency Test. The program fees of Doctor Program of
+
+112
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+pimurai.l@rsu.ac.th. The coordinator of that program is Khun Methavee and email
+is methavee.t@rsu.ac.th Doctor program of Information Technology After you
+finish the program you will get Doctor of Philosophy (Information and
+Technology). For that program You need to study Plan A (3 years) - (48 credits)
+Plan B (4 Years) - (72 credits) English requirements for this program is IELTS
+5.5 or equivalent or passed the Rangsit University English Language Proficiency
+Test. The program fees of Doctor program of Information Technology is Plan A:
+100,000 Baht per semester plus application fee 515 Baht, Total 600,515 Baht Plan
+B: 100,000 Baht per semester plus application fee 515 Baht, Total 800,515 Baht.
+The head of program of Doctor program of Information Technology program is
+Assoc. Prof. Dr. Kritchana Chimmanee and the email is
+
+113
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+sanon.s@rsu.ac.th The coordinator of that program is Khun Deunpen Tubtim and
+email is pen2512@gmail.com EXCHANGE AND STUDY ABROAD Rangsit University welcomes
+students from its partner universities to spend 1 semester in one of its 19
+International and bilingual programmes and register between 9 - 18 credits with
+tuition fees waived.The students will gain unique overseas experiences and meet
+with International friends and lecturers from different continents. FOR FURTHER
+INFORMATION about EXCHANGE AND STUDY ABROAD Please contact Mr. Mongkon Kongsakun
+International Coordinator, Rangsit University Tel: +66(2) 997-2222 ext. 3472
+Email: exchange@rsu.ac.th Outbound Exchange Program Rangsit University students
+could spend 1 semester in one of its partner universities around the world and
+transfer the credits back towards their degree completion. Explore the
+opportunity and set an appointment with IEL @ ISC today to plan your life
+changing journey. Study Abroad Program
+
+114
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+As a study abroad student, you will be eligible to register, learn and enjoy all
+the academic courses, activities and having access to facilities on campus as
+same as the full time students. You will gain unique experiences at Rangsit
+University Thailand, learn about people and culture while receiving the credits
+from the courses registered to be transferred back home. ELIGIBILITY : EXCHANGE
+AND STUDY ADROAD STUDENT EXCHANGE: Inbound to RSU Applicants must be currently
+enrolled in an accredited RSU's partner university and completed at least 1 year
+at the home university (Visit partner university list) Applicants must be
+willing to adhere to Thailand's law / RSU student rules and conduct code
+Applicants must have average GPA of 2.5 or higher If applicant is not a native
+English speaker, he or she must score 500 or higher on the TOFL, 5.0 on IELTS or
+pass RELI / RIC English proficiency test Where the language of instruction is
+not English, some proficiency in the relevant language will
+
+109
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+1. Business Administration 2. Communication Arts 3. Educational Studies 4.
+Information and Technology Doctor of Business Administration Program After you
+finish study you will get this degree Doctor of Business Administration. You
+need to study 3-4 years. Plan A (3 years) - PLAN A (6 semesters, 54 credits)
+Plan B (4 Years) - PLAN B (7 semesters, 63 credits) English requirements for
+this program is IELTS 5.5 or equivalent or passed the Rangsit University English
+Language Proficiency Test. The course fees of the program Doctor of Business
+Administration Program is Plan A: 144,000 Baht per semester plus application fee
+
+116
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+* Please consult faculty's International Coordinator to form the learning
+agreement & submit to CIEL for registration & transcript issuance assistance.
+The form can be submitted to CIEL online, prior to the departure. **Quota
+Exchange students accepted under generic Memorandum of Understanding: 5 students
+/ semester (RIC) Separate numbers of students are accepted on top of this for
+the faculties with FACULTY to FACULTY addendum EXCHANGE: Outbound to World
+Applicants must completed at least 1 year at RSU and currently enrolled as a
+full time stduent at RSU Applicants must be willing to adhere to host country's
+law / partner university's student rules and conduct code Applicants must have
+average GPA of 2.5 or higher Some courses at host universities will require
+higher grade averages (such as Law and Engineering) Evidence of English
+competency (TOEFL) may not be required by some host universities Where the
+language of instruction is not English, proficiency in the relevant language
+will be
+
+117
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+required Applicant must be in good health both mentally and physically Applicant
+must have no criminal record Document required 1. Online application form 2.
+Scan of student ID 3. Scan of study record / transcript 4. Scan of nomination
+form 5. Scan of reference form 6. Scan of health certifictae Upon acceptance,
+student must form and submit completed learning agreement to CIEL prior to the
+departure. INBOUND to RSU Applicants must be currently enrolled in an accredited
+university or higher education institute and completed at least 1 year at the
+home university Applicants must be willing to adhere to Thailand's law / RSU
+student rules and conduct code Applicants must have average GPA of 2.5 or higher
+If applicant is not a native English speaker, he or she must score 500 or higher
+on the TOEFL, 5.0 on IELTS or pass RELI / RIC English proficiency test Where the
+language of instruction is not English, some proficiency in the relevant
+language will be required.
+
+118
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+be required. Applicant must be in good health both mentally and physically
+Applicant must have no criminal record Document required 1. Online application
+form 2. Scan of passport 3. Scan of study record / transcript 4. Scan of signed
+learning agreement* 5. Scan of health certificate 6. Scan of reference form
+
+119
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+* Please consult faculty's International Coordinator to form the learning
+agreement & submit to CIEL for registration & transcript issuance assistance.
+The form can be submitted to CIEL online, prior to the departure. THE
+INTERNATIONAL COLLEGE ACADEMIC CALENDAR SEMESTER 2/2023 From November 13 –
+December 6, 2023 is Pre-Registration Period via Intranet System and make a bank
+transfer payment. From December 13 – 20, 2023 is Late-Registration Period
+without fee via Intranet System. From December 31, 2023 – January 1, 2024 is
+Public Holiday (New Year’s Eve) and Public Holiday (New Year). From January 2,
+2024 is Public Holiday (New Year’s Eve) and Public Holiday (New Year). January
+5, 2024 is RIC Orientation. January 8, 2024 is First day of classes and First
+day of late-registration with fee* January 19, 2024 is Last day of
+late-registration with fee* and Last day of withdrawal without “W” record and
+receive full credit fees refunded.
+
+120
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+From January 22 – 26, 2024 is Period of near-graduated student’s request for
+graduation in Semester 2/2022. January 25, 2024 is RSU Anniversary Day. January
+26, 2024 is Last day for changing “I” grade and last day for summarizing the
+list of graduates in Term 1/2023. February 24, 2024 is Public Holiday (Makha
+Bucha Day). February 26, 2024 is Public Holiday (Makha Bucha Day). From February
+27– March 1, 2024 is Term Break. From February 27 – March 28, 2024 is Freshmen
+Sports Day “Phayorm Games”. April 6, 2024 is Public Holiday (Chakri Memorial
+Day). April 8, 2024 is Public Holiday (Chakri Memorial Day). April 12, 2024 is
+Last day of withdrawal with “W” record. From April 13 – 15, 2024 is Public
+Holidays (Songkran Festival Day). From April 16 - 17, 2024 is Public Holidays
+(Songkran Festival Day). April 26, 2024 is Last day of classes. From April 29 -
+May 9, 2024 is final exam. From April 29 - May 9, 2024 is final examination. May
+4, 2024 is Public Holiday (Coronation Day).
+
+121
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+May 6, 2024 is Public Holiday (Coronation Day). *Late registration fee is 500
+THB per day. Note: RIC will not, except in very unusual circumstances, grant
+permission to individual students for an early final examination.
+
+123
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College
+International College Code 15 Color Light Purple Kritsada Sriphaew, Ph.D.,
+Assistant Professor. Dean Qualification B.Eng.Honors (Computer Engineering),
+King Mongkut’s Institute of Technology, Ladkrabang, Thailand Ph.D. (Technology),
+Sirindhorn International Institute of Technology, Thammasat University, Thailand
+International College offers the following 6 International Programs: Bachelor’s
+Degree Communication Arts International Business Information and Communication
+Technology International Hospitality Industry International Relations and
+Development Master’s Degree International Digital Business
+
+115
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+be required. Applicant must be in good health both mentally and physically
+Applicant must have no criminal record Document required 1. Online application
+form 2. Scan of passport 3. Scan of study record / transcript 4. Scan of signed
+and sealed learning agreement* 5. Scan of health certificate 6. Scan of
+nomination form
+
+124
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College
+Degree : Bachelor of Communication Arts B.Comm Arts (International Program) Why
+study Comm Arts? • Holistic knowledge of communication • Modern and uniquely
+designed program to enhance career opportunities • World-leading academics and
+highly experienced lecturers • Multidisciplinary education • Third language
+proficiency • Local and/or abroad internship program • International experience
+• Outstanding mix of friends from all over the world Career opportunities: There
+continues to be a huge demand for graduate in all areas of Comm Arts, and
+em-ployment prospects are excellent, which include: • Account Executive • Public
+Relations Practitioner • Copywriter • Columnist • News Editor • Event Organizer
+Qualifcations: 1. Academic Entry Requirement a. Completed Upper Secondary School
+(M.6 Certificate) or its equivalent as
+
+125
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+recognized by the Thai Ministry of Education or; b. Completed High School Grade
+12 (US System) or; Communication Arts Program (Comm Arts)
+
+126
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College c.
+Passed 5 subjects of IGCSE O-Level and 3 subjects of A/AS Subjects with Grade C
+or above (British System) or; d. Completed International Baccalaureate (IB)
+Diploma 2. English Language Requirement* a. English is the applicant’s first
+language or; b. A score of B2 level in the CEFR framework; or c. An IELTS
+(Academic) overall score of 5.5 or; d. TOEFL score of at least 500 in
+Paper-Based Test; 173 in Computer-Based Test; 60 in Internet-Based Test or; e.
+CU-TEP Test equivalent score of 70 or other approved equivalents or; f. Pass the
+Rangsit University International College (RIC) Placement Test *An applicant who
+does not meet the English language requirement will take the RIC Eng- lish
+Foundation Programme before they can start the degree program. Education System
+& Academic Calendar : RIC employs the semester system, in which each of the two
+semesters is 15 weeks
+
+127
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+and a summer of 8 weeks in length. Our academic calendar is as follows: • Summer
+: June - July • Semester I : August - December • Semester II : January - May
+Application Periods • Summer : February - June • Semester I : June - August •
+Semester II : September - January Comm. Arts Program Structure: • A 4-year
+program • Total credit 126 credits Pre-College (non-credit) 27 credits The
+subjects for International Foundation English (IFE) are following: IFE Level I
+
+98
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/FinalRicBestdata.pdf
+To study Postgraduate of International Digital Business program June
+(pre-sessional programme starts) August (programme starts) this terms are open.
+Career opportunities for Postgraduate of International Digital Business program
+Entrepreneur and Start-up Digital Marketer Innovation Developer Multinational
+Corporate Staff Company’s Executive Officer English requirements for MIDB
+Program is IELTS 5.5 or equivalent (English Test can be provided at RIC), or;
+Pass pre-sessional program
+
+122
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College
+วิทยาลัยนานาชาติ International College
+
+128
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College IFE
+101 Active Integrated English I IFE 102 English Listening and Speaking I IFE 103
+English Academic Reading and Writing I IFE Level II IFE 104 Active Integrated
+English II IFE 105 English Listening and Speaking II IFE 106 English Academic
+Reading and Writing II IFE 011 Bac International Test II General Education
+Courses 30 credits Group 1 and Group 2 15 credits RSU Identity 3 credits
+Internationalization and Communication 12 credits - English Language 6 credits -
+International Language and International Experience 6 credits Group 3 – Group 8
+15 credits The student can select to study in group 3- group 8 by selecting
+subject not ex-
+
+130
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College
+First Year Second Year Semester I ICO 230 Creative Thinking for 3(2-2-5)
+Communication Arts ICO 218 Intercultural Communication 3(3-0-6) in ASEAN ICA 217
+Psychology of 3(3-0-6) Communication XXX xxx General Education 3(_-_-_) XXX xxx
+General Education 3(_-_-_) XXX xxx General Education 3(_-_-_) XXX xxx General
+Education 3(_-_-_) Total 15 credits Semester II ICO 211 Laws of Mass 3(3-0-6)
+Communication ICO 222 Ethics of Mass 3(3-0-6) Communication ICO 231 Creative
+Content for 3(2-2-5) Digital Media ICA 253 Advanced Writing for 3(3-0-6)
+Communication XXX xxx General Education 3(_-_-_) ICA xxx Professional Elective I
+3(_-_-_) XXX xxx General Education 3(_-_-_) Total 21 credits Communication Arts
+Study Plan Semester I ICO 111 Principles and Theories of 3(3-0-6)
+
+129
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+ceeding 3 credits in each group and the total of credit is not less than 15
+credits Group 3 - Leadership and Social Responsibility 3 credits Group 4 - Arts
+and Culture 3 credits Group 5 - Innovative Entrepreneurship 3 credits Group 6 -
+Digital Media Literacy 3 credits Group 7 - Essence of Science 3 credits Group 8
+- RSU My-Style 3 credits Core Course 99 credits Professional Foundation Courses
+36 credits Professional Courses 63 credits Required Professional Courses 48
+credits Elective Professional Courses 15 credits Free Elective Courses (not less
+than) 6 credits
+
+133
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Elective II XXX xxx Professional Concentrated 3(_-_-_) Elective III XXX xxx
+Professional Concentrated 3(_-_-_) Elective IV XXX xxx Professional Concentrated
+3(_-_-_) Elective V Total 18 credits
+
+131
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Communication ICO 112 Introduction to Mass 3(3-0-6) Communication ICA 111
+Introduction to Journalism 3(2-2-5) ICA 120 Introduction to Radio and 3(3-0-6)
+Television ICA 122 Principles of Strategic 3(3-0-6) Communication XXX xxx
+General Education 3(_-_-_) XXX xxx General Education 1(_-_-_) IRS 101
+Dharmacracy 2(2-0-4) Total 18 credits Semester II ICO 113 Speech and Personality
+3(2-2-5) ICO 116 Language and 3(2-2-5) Communication in Social and Cultural
+Context ICO 215 Digital Photography for 3(2-2-5) Communication ICA 132
+Persuasive Communication 3(3-0-6) XXX xxx General Education 3(_-_-_) XXX xxx
+General Education 3(_-_-_) XXX xxx General Education 3(_-_-_) Total 21 credits
+
+135
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+• Business Organization Qualifcations: 1. Academic Entry Requirement a.
+Completed Upper Secondary School (M.6 Certificate) or its equivalent as
+recognized by the Thai Ministry of Education or; b. Completed High School Grade
+12 (US System) or; c. Passed 5 subjects of IGCSE O-Level and 3 subjects of A/AS
+Subjects with Grade C or above (British System) or; d. Completed International
+Baccalaureate (IB) Diploma 2. English Language Requirement* a. English is the
+applicant’s first language or; b. A score of B2 level in the CEFR framework; or
+c. An IELTS (Academic) overall score of 5.5 or; d. TOEFL score of at least 500
+in Paper-Based Test; 173 in Computer-Based Test; 60 in Internet-Based Test or;
+e. CU-TEP Test equivalent score of 70 or other approved equivalents or; f. Pass
+the Rangsit University International College (RIC) Placement Test *An applicant
+who does not meet the English language requirement will take the RIC English
+
+134
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College
+International Business Program (IB) Degree : Bachelor of Business Administration
+(International Business) B.B.A. (International Business) Why study IB? •
+Extensive knowledge of international business analysis and international trade •
+Modern and uniquely designed program to enhance career opportunities •
+World-leading academics and highly experienced lecturers • Multidisciplinary
+education • Third language proficiency • Local and/or abroad internship program
+• International experience • The Outstanding mix of friends from all over the
+world Career opportunities: There continues to be a huge demand for graduate in
+all areas of IB, and employment prospects are excellent, which include: •
+Multi-National Corporations in Sales, Marketing, Import-Export • Government:
+BOI, Export Promotion, International Trade • Trade Organization • Entrepreneur •
+Import-Export Business
+
+136
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Foundation Programme before they can start the degree program.
+
+138
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+IFE 011 Bac International Test II General Education Program (International
+Program): 30 credits Group 1 and Group 2 15 credits RSU Identity 3 credits
+Internationalization and Communication 12 credits - English Language 6 credits -
+International Language and International Experience 6 credits Group 3 – Group 8
+15 credits (The student can select to study in group 3- group 8 by selecting
+subject not exceeding 3 credits in each group and the total of credit is not
+less than 15 credits) Group 3 - Leadership and Social Responsibility 3 credits
+
+137
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College
+Education System & Academic Calendar: RIC employs the semester system, in which
+each of the two semesters is 15 weeks and a summer of 8 weeks in length. Our
+academic calendar is as follows: • Summer : June – July • Semester I : August –
+December • Semester II : January - May Application Periods : • Summer : February
+– June • Semester I : June – August • Semester lI : September – January IB
+Program • A four year program • Total credit 132 credit Pre-College Courses
+(non-credit) 19 Credits The subjects for International Foundation English (IFE)
+are the following: IFE Level I IFE 101 Active Integrated English I IFE 102
+English Listening and Speaking I IFE 103 English Academic Reading and Writing I
+IFE Level II IFE 104 Active Integrated English II IFE 105 English Listening and
+Speaking II IFE 106 English Academic Reading and Writing II
+
+140
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College
+Core Courses 96 credits l. Professional Foundation Courses 36 credits II. Major
+Courses 63 credits • Required Major Courses 36 credits • Elective Major Courses
+24 credits III. Free Elective 6 credits
+
+141
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College
+First Year Second Year Semester I XXX xxx General Education V 3(_-_-_) IAC 100
+Principles of Financial 3(_-_-_) Accounting ILA 112 Business Law 3(3-0-6) IPO
+201 Operation Management 3(3-0-6) IHR 201 Human Resource 3(3-0-6) Management and
+Entrepreneurship IEC212 Principles of Macroeconomics 3(3-0-6) Total 18 Credits
+Semester II IAC 103 Principles of Managerial 3(3-0-6) Accounting IPO 200
+Quantitative Analysis and 3(3-0-6) Business Statistics IFN 201 Business Finance
+3(3-0-6) IBM 301 Global Business 3(3-0-6) Management IBM 334 International
+Business 3(3-0-6) Logistics ICS 211 Computer Problem 3(2-2-5) Solving for
+Business XXX xxx Free Elective I 3(_-_-_) Total 21 Credits International
+Business Summer
+
+142
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Summer IRS 111 Social Dharmacracy 2(2-0-4) XXX xxx GE Language I 3(3-0-6) IRS
+112 Sport for Health 1(0-2-1) Total 6 Credits Semester I XXX xxx General
+Education I 3(_-_-_) XXX xxx General Education II 3(_-_-_) XXX xxx General
+Education III 3(_-_-_) ITA 126/ Thai Language 3(2-2-6) ITA 127 Thai Language for
+Beginner IMK 201 Principles of Marketing 3(3-0-6) Total 15 Credits Semester II
+XXX xxx General Education IV 3(_-_-_) XXX xxx GE other Language II 3(_-_-_) XXX
+xxx GE other Language III 3(_-_-_) IEC 211 Principles of Microeconomics 3(3-0-6)
+IMG 201 Modern Management and 3(3-0-6) Organization Behaviour Total 15 Credits
+
+132
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College
+Third Year Fourth Year Semester I ICA491 Communication Arts 3(2-2-5)
+Professional Seminar XXX xxx Free Elective I 3(_-_-_) XXX xxx Free Elective II
+3(_-_-_) Total 9 credits Semester II ICA 492 Senior Project 5(0-10-5) ICA 493
+Internship in 1 (0-35-18) Communication Arts Or ICA 494 Co-operative Education
+6(0-35-18) Total 6 credits Semester I ICO 311 Communication Research 3(3-0-6)
+ICA 251 Target Audience Behavior 3(3-0-6) ICA 311 Strategic Communication
+3(3-0-6) Planning and Evaluation ICA 312 Production for Multimedia 3(2-2-5) ICA
+xxx Professional Elective II 3(_-_-_) XXX xxx Professional Concentrated 3(_-_-_)
+Elective I Total 18 credits Semester II ICA 313 International
+Communication3(3-0-6) Entrepreneurship ICA xxx Professional Elective IlI
+3(_-_-_) XXX xxx Professional Concentrated 3(_-_-_)
+
+143
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College
+Third Year Fourth Year Plan A Semester I IBM 431 Export-Import Management
+3(3-0-6) XXX xxx Major Elective V 3(_-_-_) XXX xxx Major Elective VI 3(_-_-_)
+XXX xxx Major Elective VII 3(_-_-_) XXX xxx Major Elective VIII 3(_-_-_) Total
+15 Credits Semester II IBM 498 Internship 3(0-35-18) Total 3 Credits OR Plan B
+For Co-operative Study Plan Semester I IBM 492 Current Issues in 3(3-0-6)
+International Business XXX xxx Major Elective V 3(_-_-_) XXX xxx Major Elective
+VI 3(_-_-_) XXX xxx Major Elective VII 3(_-_-_) XXX xxx Major Elective VIII
+3(_-_-_) Total 15 Credits Semester II IBM 494 Co-Operative Education 6(0-35-18)
+Total 6 Credits Semester I IBM 492 Current Issues in International 3(3-0-6)
+Business IBM 445 Cross Cultural Management 3(3-0-6) IBM 460 Global Competitive
+Strategy 3(3-0-6)
+
+144
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+IFN 331 International Finance 3(3-0-6) XXX xxx Major Elective I 3(_-_-_) XXX xxx
+Major Elective II 3(_-_-_) Total 18 Credits Semester II ILA 431 International
+Trade Law 3(3-0-6) IMG 336 Leadership, Negotiation 3(3-0-6) and Conflict
+Management IMK 331 Global Marketing 3(3-0-6) IPO 302 Research Methods 3(3-0-6)
+XXX xxx Major Elective III 3(_-_-_) XXX xxx Major Elective IV 3(_-_-_) XXX xxx
+Free Elective II 3(_-_-_) Total 21 Credits
+
+146
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+7. Network Administrator/IT support 8. Data Analyst Qualifications: 1. Academic
+Entry Requirement a. Completed Upper Secondary School (M.6 Certificate) or its
+equivalent as recognized by the Thai Ministry of Education or; b. Completed High
+School Grade 12 (US System) or; Information and Communication Technology Program
+(ICT)
+
+147
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College c.
+Passed 5 subjects of IGCSE O-Level and 3 subjects of A/AS Subjects with Grade C
+or above (British System) or; d. Completed International Baccalaureate (IB)
+Diploma 2. English Language Requirement* a. English is the applicant’s first
+language or; b. A score of B2 level in the CEFR framework; or c. An IELTS
+(Academic) overall score of 5.5 or; d. TOEFL score of at least 500 in
+Paper-Based Test; 173 in Computer-Based Test; 60 in Internet-Based Test or; e.
+CU-TEP Test equivalent score of 70 or other approved equivalents or; f. Pass the
+Rangsit University International College (RIC) Placement Test *An applicant who
+does not meet the English language requirement will take the RIC English
+Foundation Programme before they can start the degree program. Education System
+& Academic Calendar ICT employs the semester system, in which each of the two
+semester in 15 weeks and a
+
+148
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+summer of 8 weeks in length. Our academic calendar is as follows: • Summer :
+June - July • Semester I : August - December • Semester II : January - May
+Application Period: • Summer : February - June • Semester I : June - August •
+Semester II : September - January ICT Program Structure: • A 4-year program • A
+total of 120 credits Pre-College Courses (non-credit) 27 credits The subjects
+for International Foundation English (IFE) are the following: IFE Level I IFE
+101 Active Integrated English I IFE 102 English Listening and Speaking I IFE 103
+English Academic Reading and Writing I
+
+150
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+(The student can select to study in group 3- group 8 by selecting subject not
+exceeding 3 credits in each group and the total of credit is not less than 15
+credits) Group 3 - Leadership and Social Responsibility 3 credits Group 4 - Arts
+and Culture 3 credits Group 5 - Innovative Entrepreneurship 3 credits Group 6 -
+Digital Media Literacy 3 credits Group 7 - Essence of Science 3 credits Group 8
+- RSU My-Style 3 credits Special Core Course 90 credits I. Foundation Core
+Course 18 credits II. Major Core Courses 72 credits A. Major Compulsory Courses
+51 credits A1. Organization and Information Technology issues 15 credits A2.
+Technology Applications 15 credits
+
+139
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Group 4 - Arts and Culture 3 credits Group 5 - Innovative Entrepreneurship 3
+credits Group 6 - Digital Media Literacy 3 credits Group 7 - Essence of Science
+3 credits Group 8 - RSU My-Style 3 credits
+
+151
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+A3. Technology and Software Process 9 credits A4. System Operation and Structure
+6 credits A5. Thesis and Co-operative Education 6 credits B. Major Elective
+Courses 15 credits III. Free Elective Courses 6 credits
+
+145
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College
+Degree: Bachelor of Science (Information and Communication Technology) B.Sc.
+(Information and Communication Technology) Why study ICT? • International
+Program with international experience • Double degree with partner universities
+• Local and/or abroad cooperative education programs with well-known companies •
+Modern and uniquely designed program to enhance career opportunities •
+World-leading academics and highly experienced lecturers • Technology-driven and
+multidisciplinary education • Third language proficiency • Outstanding mingle of
+classmates from all over the world Career opportunities: There continues to be a
+huge demand for graduates in all areas of ICT, and employment prospects are
+excellent, which include: 1. System Analyst 2. Information Technologist 3.
+Programmer 4. Software Developer 5. Software Taster/Quality Assurance 6.
+Database Administrator
+
+153
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+ICT 110 Web System and 3(2-2-5) Technologies XXX xxx General Education 3(_-_-_)
+*Total 21 credits/21 credits First Year Second Year Semester I ICT 112
+Fundamental Information 3(3-0-6) Systems ICT 202 Computer Programming II
+3(2-2-5) ICT 209 Data Communication and 3(3-0-6) Networking ICT 210 Information
+Technology Laws 3(3-0-6) ICT 211 Database Management 3(3-0-6) Systems for
+Organization XXX xxx General Education 3(x-x-x) *Total 18 credits/18 credits
+Semester II ITE 201 Information Technology 3(3-0-6) ICT 212 Data Structure and
+Algorithm 3(3-0-6) ICT 213 System Analysis and Design 3(3-0-6) ICT 215
+Human-Computer Interaction 3(3-0-6) XXX xxx General Education 3(x-x-x) XXX xxx
+Major Elective I 3(x-x-x)
+
+154
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+*Total 18 credits/18 credits
+
+155
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College
+Semester I ICT 301 Implementation of 3(2-2-5) Information Technology ICT 302
+Social and Professional 3(2-2-5) Issues XXX xxx Major Elective I 3(_-_-_) XXX
+xxx Major Elective III 3(_-_-_) XXX xxx Major Elective IV 3(_-_-_) *Total 15
+credits/15 credits Semester II ICT 304 Information Assurance 3(3-0-6) and
+Security ICT 305 Information Systems 3(3-0-6) Project Management XXX xxx Major
+Elective V 3(x-x-x) XXX xxx Free Elective I 3(x-x-x) XXX xxx Free Elective II
+3(x-x-x) *Total 15 credits/15 credits Third Year Fourth Year Semester I ICT 401
+Seminar in Information and 3(3-0-6)
+
+156
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Communication Technology ICT 402 Bachelor of Science 3(2-2-5) Research Skills
+[ICT 494] Introduction to Senior 2(2-0-4) Project Networking *Total 8 credits/6
+credits Semester II [ICT 495] Senior Project 3(0-6-3) or [ICT 498] Co-operation
+Education 6(0-35-18) *Total 3 credits/6 credits *Note: There are two plans.
+i.e., senior project (A) and co-operative education (B) denoted by total credits
+A credits/B credits respective ICT Study Plan
+
+157
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College
+Hospitality Industry (IHI) Degree : Bachelor of Arts (Hospitality Industry) B.A.
+(Hospitality Industry) Why study IHI? • Extensive knowledge of hospitality
+industry • Modern and uniquely design program to enhance career opportunities •
+World-leading academics and highly experience lecturers • Multidisciplinary
+education • Third language proficiency • Opportunities for practical work
+experience and internship • International experience • The outstanding mix of
+friends from all over the world Career opportunities: There continues to be a
+huge demand for graduate in all areas of IHI, and employment prospects are
+excellent, which industry as follows: • Hospitality • Tourism • Hotel • Airlines
+• Restaurant • Ministry of tourism • Etc. Qualification 1. Academic Entry
+Requirement a. Completed Upper Secondary School (M.6 Certificate) or its
+equivalent as
+
+158
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+recognized by the Thai Ministry of Education or; b. Completed High School Grade
+12 (US System) or; c. Passed 5 subjects of IGCSE O-Level and 3 subjects of A/AS
+Subjects with Grade C or above (British System) or; d. Completed International
+Baccalaureate (IB) Diploma
+
+159
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College 2.
+English Language Requirement* a. English is the applicant’s first language or;
+b. A score of B2 level in the CEFR framework; or c. An IELTS (Academic) overall
+score of 5.5 or; d. TOEFL score of at least 500 in Paper-Based Test; 173 in
+Computer-Based Test; 60 in Internet-Based Test or; e. CU-TEP Test equivalent
+score of 70 or other approved equivalents or; f. Pass the Rangsit University
+International College (RIC) Placement Test *An applicant who does not meet the
+English language requirement will take the RIC Eng- lish Foundation Programme
+before they can start the degree program. Education System & Academic Calendar:
+RIC employs the semester system, in which each of the two semesters is 15 weeks
+and a summer of 8 weeks in length. Our academic calendar is as follows: • Summer
+: June – July • Semester I : August – December • Semester II : January - May
+Application Periods:
+
+149
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College IFE
+Level II IFE 104 Active Integrated English II IFE 105 English Listening and
+Speaking II IFE 106 English Academic Reading and Writing II IFE 011 Bac
+International Test II General Education Program (International Program): 30
+credits Group 1 and Group 2 15 credits RSU Identity 3 credits
+Internationalization and Communication 12 credits - English Language 6 credits -
+International Language and International Experience 6 credits Group 3 – Group 8
+15 credits
+
+161
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College IFE
+004 English Academic Writing I IFE Level II IFE 005 Active Integrated English II
+IFE 006 English Listening and Speaking II IFE 007 English Academic Reading II
+IFE 008 English Academic Writing II IFE 009 English Communication and
+Presentation General Education Program (International Program): 30 credits Group
+1 and Group 2 15 credits RSU Identity 3 credits Internationalization and
+Communication 12 credits - English Language 6 credits - International Language
+and International Experience 6 credits Group 3 – Group 8 15 credits
+
+152
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College ICT
+Study Plan Semester I ICT 111 Introduction to Information 3(3-0-6) Technology
+ITA 106/107 Thai Language for 3(2-2-5) Communication/Thai Language for Business
+ILE xxx Languages I 3(_-_-_) ILE xxx Languages II 3(_-_-_) ILE xxx Languages III
+3(_-_-_) XXX xxx General Education 3(_-_-_) IRS 112 Sport for Health 1(0-2-1)
+IRS 111 Social Dhamacracy 2(2-0-4) *Total 21 credits/ 21 credits Semester II MAT
+153 Mathematics for 3(3-0-6) Information Technology ILE xxx Languages IV
+3(_-_-_) ICT 101 Object-Oriented Technology 3(3-0-6) ICT 102 Computer
+Programming I 3(2-2-5) ICT 103 Database System Concept 3(3-0-6)
+
+163
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+• Elective Language 15 credits • Elective 15 credits IV. Free Elective 6 credits
+
+164
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College
+First Year Second Year Semester I XXX xxx (Group 3-8) III 3(3-0-6) XXX xxx
+(Group 3-8) IV 3(3-0-6) XXX xxx Language IV 3(3-0-6) IHI 210 Special Interest
+Tourism 3(3-0-6) IHI 215 Room Division and Front 3(2-2-5) Office XXX xxx
+Elective Language II 3(2-2-5) Total 18 Credits Semester II XXX xxx (Group 3-8) V
+3(3-0-6) IHI 211 Hotel Operations and 3(3-0-6) Management IHI 213 Geography for
+Tourism 3(2-2-5) IHI 313 Airline Business Management 3(3-0-6) XXX xxx Elective
+Language III 3(2-2-5) XXX xxx Elective I 3(_-_-_) Total 18 Credits IHI Study
+Plan Semester I IRS 111 Social Dharmacracy 2(2-0-4) IRS 112 Sports for Health
+1(0-2-1) XXX xxx Language I 3(3-0-6) XXX xxx Language II 3(3-0-6) XXX xxx (Group
+3-8) I 3(3-0-6) IHI 101 International Tourism and 3(3-0-6) Hospitality
+
+165
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+IHI 102 Psychology for Hospitality 3(3-0-6) Industry and Cross Cultural
+Communication Total 18 Credits Semester II XXX xxx Language III 3(3-6-6) XXX xxx
+(Group 3-8) II 3(3-0-6) XXX xxx Elective Language I 3(2-2-5) IHI 103 Hospitality
+Arts and 3(3-0-6) Personality Development IHI 104 Sustainable Hospitality
+3(1-4-4) Industry Management IHI 105 Tourist Behavior 3(3-0-6) Total 18 Credits
+
+166
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College
+Third Year Fourth Year Semester I IHI 401 Ethics and Laws Related to 3(3-0-6)
+Hospitality Industry IHI 411 Preparation for internship 1(0-2-1) in Hospitality
+Industry IHI 412 Strategic Management and 3(3-0-6) Current Issues in Hospitality
+Industry XXX xxx Free Elective I 3(_-_-_) XXX xxx Free Elective II 3(_-_-_)
+Total 13 Credits Semester II IHI 414 Co-operative Education 6(0-35-18) Total 6
+Credits Semester I IHI 214 Food and Beverage 3(2-2-5) Management and Operations
+IHI 301 Human Resource 3(3-0-6) Management in Hospitality Industry XXX xxx
+Elective II 3(_-_-_) XXX xxx Elective III 3(_-_-_) XXX xxx Elective Language IV
+3(2-2-5) XXX xxx Elective Language V 3(2-2-5) Total 18 Credits Semester II IHI
+302 Hospitality Industry 3(2-2-5) Information Systems IHI 310 Housekeeping
+Service 3(2-2-5)
+
+167
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Management IHI 311 Tour Package Planning 3(2-2-5) and Management IHI 312
+Catering and Banquet 3(2-2-5) Management IHI 410 Hospitality Industry Sales
+3(3-0-6) and Marketing XXX xxx Elective IV 3(_-_-_) XXX xxx Elective V 3(_-_-_)
+Total 21 Credits IHI Study Plan
+
+162
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+(The student can select to study in group 3- group 8 by selecting subject not
+exceeding 3 credits in each group and the total of credit is not less than 15
+credits) Group 3 - Leadership and Social Responsibility 3 credits Group 4 - Arts
+and Culture 3 credits Group 5 - Innovative Entrepreneurship 3 credits Group 6 -
+Digital Media Literacy 3 credits Group 7 - Essence of Science 3 credits Group 8
+- RSU My-Style 3 credits Core Courses 94 credits l. Professional Foundation
+Courses 24 credits II. Require Major Courses 40 credits III. Elective Major
+Courses 30 credits
+
+169
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Qualifications: 1. Academic Entry Requirement a. Completed Upper Secondary
+School (M.6 Certificate) or its equivalent as recognized by the Thai Ministry of
+Education or; b. Completed High School Grade 12 (US System) or; c. Passed 5
+subjects of IGCSE O-Level and 3 subjects of A/AS Subjects with Grade C or above
+(British System) or; d. Completed International Baccalaureate (IB) Diploma 2.
+English Language Requirement* a. English is the applicant’s first language or;
+b. A score of B2 level in the CEFR framework; or c. An IELTS (Academic) overall
+score of 5.5 or; d. TOEFL score of at least 500 in Paper-Based Test; 173 in
+Computer-Based Test; 60 in Internet-Based Test or; e. CU-TEP Test equivalent
+score of 70 or other approved equivalents or; f. Pass the Rangsit University
+International College (RIC) Placement Test g. *An applicant who does not meet
+the English language requirement will take the RIC
+
+168
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College
+International Relations and Development (IRD) Degree : Bachelor of Arts
+(International Relations and Development) B.A. (International Relations and
+Development) Why study IRD? • Integrated and comprehensive knowledge of existing
+international and global development issues • Modern and uniquely designed
+program to enhance career opportunities • Leading academics and highly
+experienced lecturers • Multidisciplinary program • Opportunities for
+internships in domestic and foreign government agencies • International
+Experience and outstanding mix of international students • International field
+trips Career opportunities: There is significant demand for graduates
+knowledgeable in international relations and develop- ment studies which
+include: • Government Ministries • International Organizations •
+Non-governmental Organizations • Diplomacy • International Business • Financial
+Institutions
+
+170
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College
+English Foundation Programme before they can start the degree program. Education
+System & Academic Calendar: RIC employs the semester system, in which each of
+the two semesters is 15 weeks and a summer of 8 weeks in length. Our academic
+calendar is as follows: • Summer : June – July • Semester I : August – December
+• Semester II : January – May Pre-College Courses (non-credit) 19 Credits The
+subjects for International Foundation English (IFE) are the following: IFE Level
+I IFE 101 Active Integrated English I
+
+171
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+IFE 102 English Listening and Speaking I IFE 103 English Academic Reading and
+Writing I IFE Level II IFE 104 Active Integrated English II IFE 105 English
+Listening and Speaking II IFE 106 English Academic Reading and Writing II IFE
+011 Bac International Test II General Education Program (International Program)
+30 credits I. Group 1 RSU Identity 3 credit II. Group 2 Internationalization and
+Communication 12 credit - English Language 6 credit - International Language and
+International Experience 6 credit III. Group 3 to Group 8 15 credit (The student
+can select to study in group 3 to 8 by selecting subject not exceeding 3 credits
+in each group and the total of credit is not less than 15 credit) - Group 3
+Leadership and Social Responsibility 3 credit
+
+172
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+- Group 4 Arts and Culture 3 credit - Group 5 Innovative Entrepreneurship 3
+credit - Group 6 Digital Media Literacy 3 credi - Group 7 Essence of Science 3
+credit - Group 8 RSU My-Style 3 credit Core Course Requirements 93 credit I.
+Professional Foundation Courses 9 credit II. Core Courses Requirements
+(Integration) 39 credit III. Major Courses Requirements 36 credit IV. Major
+Courses Elective 9 credit V. Free Elective 6 credit
+
+174
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+XXX xxx Gen.Ed.Group 3 to 8 3(_-_-_) Total 9 credits Semester I PEG 201 Academic
+Skills in Political 3(3-0-6) Science and Economics PEG 202 Basic Principles of
+Data 3(3-0-6) Analysis in Political Science and Economics POL 202 Introduction
+to International 3(3-0-6) Politics and Globalization IRD 101 Introduction to
+Southeast Asian 3(3-0-6) Political Economy and Culture IRD 307 International
+Organizations 3(3-0-6) and Cooperation XXX xxx Gen.Ed.Language I 3(2-2-5) Total
+18 credits Semester II ECO 212 Principle of Macroeconomics 3(3-0-6) ECO 391
+Development of Political 3(3-0-6) Economic Thoughts IRD 241 Thai Government and
+Politics 3(3-0-6) IRD 250 Political Economy of Asia 3(3-0-6) XXX xxx
+Gen.Ed.Language II 3(2-2-5) IRS 111 Social Dharmacracy 2(2-0-4) IRS 112 Sport
+for Health 1(0-2-1) Total 18 credits
+
+175
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College
+Third Year Fourth Year Summer IRD 497 Internship 3(0-35-18) Total 3 credits
+Semester I PEG 401 Seminar on Contemporary 3(1-4-4) Politics, Economy, and
+Global Issues IRD 498 Independent Study 3(3-0-6) XXX xxx Free Elective II
+3(_-_-_) Total 9 credits OR For Co-operative Education Study Plan Summer IRD 499
+Co-operative Education 6(0-35-18) Total 6 credits Semester I PEG 401 Seminar on
+Contemporary 3(1-4-4) Politics, Economy, and Global Issues XXX xxx Free Elective
+II 3(_-_-_) Total 6 credits Semester I IRD 264 Global Governance and 3(3-0-6)
+Development Foreign IRD 334 Policy Analysis 3(3-0-6) IRD 359 International
+Security 3(3-0-6) IRD xxx Major Elective I 3(3-0-6) XXX xxx Gen. Ed.Group 3 to 8
+3(_-_-_) XXX xxx Gen.Ed.Group 3 to 8 3(_-_-_)
+
+176
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Total 18 credits Semester II IRD 401 Research Methodology 3(2-2-5) IRD 339 US
+Government and Politics 3(3-0-6) IRD 360 International Politics of 3(3-0-6) Asia
+IRD xxx Major Elective II 3(3-0-6) IRD xxx Major Elective III 3(3-0-6) XXX xxx
+Free Elective I 3(_-_-_) Total 18 credits International Relations and
+Development (IRD) Study Plan
+
+160
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+• Summer : February – June • Semester I : June – August • Semester lI :
+September – January IHI Program • A four year program • Total credit 130 credit
+Precollege courses (non-credit): The subjects for International Foundation
+English (IFE) are the following: IFE Level I IFE 001 Active Integrated English I
+IFE 002 English Listening and Speaking I IFE 003 English Academic Reading I
+
+178
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+2. Pass the RIC English Placement Test or IELTs score of 5.5 Master of Science
+Program in International Digital Business (International Programme)
+
+177
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College
+Degree : Master of Science (International Digital Business) M.Sc. (International
+Digital Business) Why study International Digital Business? • 100 % English
+Programme • Multi-cultural environment • Advantage in working with leading
+companies • Research publication benefits for future study • Practical Knowledge
+from industry’s experts • Inclusive • Company visits in every semester Career
+opportunities: • Entrepreneur and Start-up • Digital Marketer • Innovation
+Developer • Trade Organizations • Financial Planer • Multinational Corporations
+in Sales • Marketing or Import Export • Government: - BOI - Export Promotion -
+International Trade - Business Organization - Business Researcher - Business
+Consultant, etc. Qualifications : 1. Complete University of its equivalent as
+recognized by the Thai Ministry of Education: or Obtain a Bachelor Degree
+
+180
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College
+First Year Master of Science Program in International Digital Business
+(International Programme) Semester I IDB 601 International Business 3(3-0-6)
+Management in Digital Era IDB 602 Digital Technology for Business 3(3-0-6) IDB
+603 Advanced Digital Marketing 3(3-0-6) IDB 604 Digital Entrepreneurial Finance
+3(3-0-6) IDB 606 Research Methodology for 3(3-0-6) Digital Business Total 15
+credits Semester II IDB 605 Design Thinking and 3(3-0-6) Business Laws in
+Digital Context IDB607 Quantitative Analysis and 3(3-0-6) Digital Business
+Statistics IDB xxx Elective 3(3-0-6) IDB 699 Thesis 6(0-18-9) Total 15 credits
+Semester III IDB Thesis 6(0-18-9) Total 6 credits (PLAN KOR, Thesis Plan) First
+Year Semester I IDB 601 International Business 3(3-0-6) Management in Digital
+Era
+
+181
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+IDB 602 Digital Technology for 3(3-0-6) Business IDB 603 Advanced Digital
+Marketing 3(3-0-6) IDB 604 Digital Entrepreneurial 3(3-0-6) Finance IDB 606
+Research Methodology for 3(3-0-6) Digital Business Total 15 credits Semester II
+IDB 605 Design Thinking and 3(3-0-6) Business Laws in Digital Context IDB607
+Quantitative Analysis and 3(3-0-6) Digital Business Statistics IDB xxx Elective
+I 3(3-0-6) IDB xxx Elective II 3(3-0-6) IDB xxx Elective III 3(3-0-6) Total 15
+credits Semester III IDB Thesis 6(0-18-9) Total 6 credits (PLAN KHOR,
+Independent Study Plan)
+
+182
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College
+Tourism, Hospitality and Sports Program (ITS) Degree : Bachelor of Arts
+(Tourism, Hospitality and Sports) B.A. (Tourism, Hospitality and Sports) Why
+study ITS? • Extensive knowledge of hospitality industry • Modern and uniquely
+design program to enhance career opportunities • World-leading academic and
+highly experience lectures • Multidisciplinary education • Third Language
+Proficiency • Opportunities for practical work experience and internship •
+International Experience • The outstanding mix of friends from all over the
+world Career Opportunities There continues to be a huge demand for graduate in
+all areas of ITS, and employment prospect are excellent, which industry as
+follow: • Hospitality Industry • Hotel • Tourism organization • Restaurant •
+Airline business • Cruise • Sports Organization • Ministry of Tourism •
+Academics • Etc.
+
+179
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College
+Education System & Academic Calendar : RIC employs the semester system, in which
+each of the two semesters is 15 weeks and a summer of 8 weeks in length. Our
+academic calendar is as follows: • Summer : June – July • Semester I : August –
+December • Semester II : January - May
+
+185
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+IFE Level I IFE 101 Active Integrated English I IFE 102 English Listening and
+Speaking I IFE 103 English Academic Reading and Writing I IFE Level II IFE 104
+Active Integrated English II IFE 105 English Listening and Speaking II IFE 106
+English Academic Reading and Writing II IFE 011 Bac International Test II
+General Education 30 Credits General Education Program (International Program):
+30 credits Group 1 and Group 2 15 credits RSU Identity 3 credits
+Internationalization and Communication 12 credits - English Language 6 credits
+
+173
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College
+First Year Second Year International Relations and Development (IRD) Study Plan
+Semester I POL 206 Introduction to Comparative 3(3-0-6) Politics and Government
+ECO 211 Principle of Microeconomics 3(3-0-6) IRD 252 Evolution of World Politics
+3(3-0-6) IRD 262 Evolution of World Politics 3(3-0-6) UN and Sustainable
+Development IRD 318 China in the 21st Century 3(3-0-6) XXX xxx Gen.Ed.Language
+III 3(2-2-5) Total 18 credits Semester II PEG 203 The Use of Computer in
+3(3-0-6) Political Science and Economics POL 102 Introduction to Political
+3(3-0-6) Philosophy IRD 233 Public Policy Analysis 3(3-0-6) IRD 263 Diplomacy
+and Negotiations 3(3-0-6) IRD 358 Powers in Asia Pacific 3(3-0-6) XXX xxx
+Gen.Ed.Language IV 3(2-2-5) Total 18 credits Summer XXX xxx Gen.Ed.Group 3 to 8
+3(_-_-_) XXX xxx Gen.Ed.Group 3 to 8 3(_-_-_)
+
+186
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+- International Language and International Experience 6 credits
+
+187
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College
+Group 3 – Group 8 15 credits (The student can select to study in group 3- group
+8 by selecting subject not exceeding 3 credits in each group and the total of
+credit is not less than 15 credits) Group 3 - Leadership and Social
+Responsibility 3 credits Group 4 - Arts and Culture 3 credits Group 5 -
+Innovative Entrepreneurship 3 credits Group 6 - Digital Media Literacy 3 credits
+Group 7 - Essence of Science 3 credits Group 8 - RSU My-Style 3 credits Area
+Core Courses 94 credits l. Core Course Requirement 24 credits
+
+188
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+II. Major Course Requirement 36 credits III. Major Elective Requirement 24
+credits III. Free Elective 6 credits
+
+183
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+• Etc. Qualification 1. Academic Entry Requirement a. Complete Upper Secondary
+School (M.6 Certificate) or its equivalent as recognized by the Thai Ministry of
+Education or; b. Complete High School Grade 12 (US system) or; c. Passed 5
+subjects of IGCSE O-Level and 3 subjects of A/AS subjects with Grade C or above
+(British System) or; 2. English Language Requirement* a. English is the
+applicant’s first language or; b. A score of B2 level in the CEFR framework or;
+c. An IELTS (Academic) overall score of 5.5 or; d. TOEFL score at least 500 in
+Paper-Based Test; 173 in Computer Based Test; 60 Internet-Based Test or;
+
+190
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+International Experience I ITS 111 Introduction to Tourism, 3(3-0-6) Hospitality
+and Sports ITS 113 Hospitality Arts and Personality 3(3-0-6) Development ITS 121
+Sustainable Tourism, Hospitality 3(1-4-4) and Sports Management) Total 18
+credits Semester II XXX xxx English Language 2 3(2-2-5) XXX xxx International
+Language and 3(2-2-5) International Experience II XXX xxx General Education
+Group 3-8, I 3(x-x-x) XXX xxx General Education Group 3-8, II 3(x-x-x) ITS 112
+Psychology for Hospitality and 3(3-0-6) Cross Cultural Communication ITS 114
+Consumer Behavior in Tourism, 3(3-0-6) Hospitality and Sports Total 18 credits
+
+184
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College e.
+CU-TEP Test equivalent score of 70 or other approved equivalent or; f. Pass the
+Rangsit University International College (RIC) Placement Test * An applicant who
+does not meet the English language requirement will take the RIC English
+Foundation Program before they can start the degree program. Education System
+and Academic Calendar Rangsit University Employed the semester system, in which
+each of the two semesters is 15 weeks and summer of 8 weeks in length. Our
+academic calendar is as follow: • Summer : June - July • Semester I : August -
+December • Semester II : January - May Application Periods: • Summer : February
+- June • Semester I : June - August • Semester II : September - January ITS
+Program • Four years’ program • Total 120 credits Pre-College Courses
+(non-credit) 19 Credits The subjects for International Foundation English (IFE)
+are the following: IFE Level I
+
+192
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+ITS 322 Sport Tourism Management 3(2-2-5) ITS 324 Digital Marketing for Tourism,
+3(3-0-6) Hospitality and Sports XXX xxx Elective VII 3(x-x-x) XXX xxx Elective
+VIII 3(x-x-x) Total 15 credits ITS Study Plan
+
+193
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/academic calendar  2-2023.pdf
+THE INTERNATIONAL COLLEGE ACADEMIC CALENDAR SEMESTER 2/2023 November 13 –
+December 6, 2023 Pre-Registration Period via Intranet System and make a bank
+transfer payment วันลงทะเบียนเรียนล่วงหน้า พิมพ์ใบโอนเงินผ่านทางธนาคาร ผ่านระบบ
+Intranet ภาค 2/2566 และชําระเงินผ่านทางธนาคาร December 13 – 2 0, 2023
+Late-Registration Period without fee via Intranet System
+วันลงทะเบียนล่าช้าโดยยกเว้นค่าธรรมเนียมปรับ/เพิ่มวิชา/ถอนรายวิชาผ่านระบบ
+Intranet ภาค 2/2566 และชําระเงินผ่านธนาคาร December 31, 2023 – January 1, 2024
+Public Holiday (New Year’s Eve) and Public Holiday (New Year) หยุดวันสิ้นปี
+และหยุด วันขึ้นปีใหม่ January 2, 2024 Public Holiday (New Year’s Eve) and Public
+Holiday (New Year) หยุด ชดเชยวันสิ้นปีและหยุดชดเชยวันขึ้นปีใหม่ January 5, 2024
+RIC Orientation วันปฐมนิเทศนักศึกษาใหม่ วิทยาลัยนานาชาติ January 8, 2024 First
+day of classes วันเปิดภาคเรียน First day of late-registration with fee*
+
+194
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/academic calendar  2-2023.pdf
+วันแรกของการลงทะเบียนล่าช้าโดยเสียค่าธรรมเนียมปรับ/เพิ่มวิชา/ถอนรายวิชา January
+19, 2024 Last day of late-registration with fee*
+วันสุดท้ายของการลงทะเบียนล่าช้าโดยเสียค่าธรรมเนียมปรับ/เพิ่มวิชา Last day of
+withdrawal without “W” record and receive full credit fees refunded
+วันสุดท้ายของการถอนวิชาเรียนโดยไม่บันทึก “W”
+และได้รับค่าหน่วยกิตคืนเป็นเงินโอนเก็บเต็มจํานวน January 22 – 26, 2024 Period of
+near-graduated student’s request for graduation in Semester 2/2022
+วันแจ้งจบการศึกษาสําหรับนักศึกษาที่คาดว่าจะจบภาคเรียนที่ 2/2565 January 25, 2024
+RSU Anniversary Day วันสถาปนามหาวิทยาลัยรังสิต January 26, 2024 Last day for
+changing “I” grade and last day for summarizing the list of graduates in Term
+1/2023 วันสุดท้ายของการเปลี่ยนสัญลักษณ์ I
+และวันสุดท้ายของการตัดรายชื่อผู้สําเร็จการศึกษา ภาค 1/2566 February 24, 2024
+Public Holiday (Makha Bucha Day) หยุดวันมาฆบูชา February 26, 2024 Public Holiday
+(Makha Bucha Day)
+
+195
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/academic calendar  2-2023.pdf
+หยุด ชดเชย วันมาฆบูชา
+
+197
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/academic calendar  2-2023.pdf
+Note: RIC will not, except in very unusual circumstances, grant permission to
+individual students for an early final examination. Updated: 07/10/2022
+
+196
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/academic calendar  2-2023.pdf
+February 27 – March 1, 2024 Term Break พักระหว ่ างเทอม February 27 – March 28,
+2024 Freshmen Sports Day “Phayorm Games” วันกีฬาพยอมเกมส์ ครั้งที่ 16 April 6,
+2024 Public Holiday (Chakri Memorial Day) หยุดวันมหาจักรี April 8, 2024 Public
+Holiday (Chakri Memorial Day) หยุด ชดเชย วันมหาจักรี April 12, 2024 Last day of
+withdrawal with “W” record วันสุดท้ายของการถอนวิชาเรียนโดยการบันทึก “W” April 13
+– 15, 2024 Public Holidays (Songkran Festival Day) หยุดวันมหาสงกรานต์ April 16 -
+1 7, 2024 Public Holidays (Songkran Festival Day) หยุดชดเชยวันมหาสงกรานต์ April
+26, 2024 Last day of classes วันสุดท้ายของการเรียนการสอน April 29 - M ay 9, 2024
+Final Examination วันสอบปลายภาค (เว้นวันที่ 6 พฤษภาคม 2567) May 4, 2024 Public
+Holiday (Coronation Day) หยุดวันฉัตรมงคล May 6, 2024 Public Holiday (Coronation
+Day) หยุด ชดเชย วันฉัตรมงคล *Late registration fee is 500 THB per day.
+
+189
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College
+First Year Second Year ITS Study Plan Semester I XXX xxx General Education Group
+3-8, III3(x-x-x) XXX xxx General Education 3(x-x-x) Group 3-8, IV ITS 221 Hotel
+Business Management 3(3-0-6) ITS 223 Tourism Management 3(3-0-6) XXX xxx
+Elective I 3(x-x-x) XXX xxx Elective II 3(x-x-x) Total 18 credits Semester II
+XXX xxx General Education Group 3-8, v 3(x-x-x) ITS 222 Tourism, Hospitality and
+3(3-0-6) Sports Innovation ITS 224 Tour Operator and Travel 3(2-2-5) Agent
+Planning and Management XXX xxx Elective III 3(x-x-x) XXX xxx Elective IV
+3(x-x-x) XXX xxx Free Elective I 3(x-x-x) Total 18 credits Semester I IRS 111
+Social Dharmacracy 2(2-0-4) IRS 112 Sports for Health 1(0-2-1) XXX xxx English
+Language I 3(2-2-5) XXX xxx International Language and 3(2-2-5)
+
+191
+/Users/shoon/Desktop/enhanced-faq/backend/public/data/International 23-24 (หลักสูตร).pdf
+Rangsit University Bulletin 2023-2024 วิทยาลัยนานาชาติ International College
+Third Year Fourth Year Summer ITS 411 Ethics and Laws Related 3(3-0-6) to
+Tourism, Hospitality and Sports ITS 491 Preparation for internship 3(2-2-5) ITS
+493 Seminar in Tourism, 3(2-2-5) Hospitality and Sports XXX xxx Free Elective II
+3(x-x-x) Total 12 credits Semester II ITS 494 Internship 3(0-35-18) Total 3
+credits Semester I ITS 311 Human Resource Management 3(3-0-6) in Tourism,
+Hospitality and Sports ITS 313 Marketing Strategy for Tourism, 3(3-0-6)
+Hospitality and Sports ITS 321 Airline Business Management 3(3-0-6) ITS 323
+logistics for Tourism, 3(3-0-6) Hospitality and Sports XXX xxx Elective V
+3(x-x-x) XXX xxx Elective VI 3(x-x-x) Total 18 credits Semester II ITS 312
+Tourism, Hospitality and 3(2-2-5) Sports Information System

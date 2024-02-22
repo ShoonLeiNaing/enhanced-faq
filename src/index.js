@@ -20,6 +20,6 @@ app.use(express.json());
 app.post("/api/submit-question", submitQuestion);
 
 app.listen(port, async () => {
-  await storeData();
+  // await storeData();
   console.log(`Listening at http://0.0.0.0:${port}`);
 });

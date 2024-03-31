@@ -236,6 +236,134 @@ const submitQuestion = async (req, res) => {
           parts:
             "You can try to find internships from these platforms: glints, internjobs.com, experience by simplicity, internsg, glassdoor, hiredly, LinkedIn, wayup, Asia Internship program, and gradsingapore.",
         },
+        {
+          "role": "user",
+          "parts": "What if you don’t have any recent IELTS scores?"
+          },
+          {
+          "role": "model",
+          "parts": "Students who don't have recent IELTS scores can typically take an English Placement Test, often provided free-of-charge, once they arrive at the university. If a student's English proficiency level is below the minimum requirement of IELTS 5, they may be required to take additional English language courses before beginning their program."
+          },
+          {
+            "role": "user",
+            "parts": "What are the admissions requirements?"
+          },
+          {
+            "role": "model",
+            "parts": "The academic entry requirement is a high school diploma or equivalent and IELTS 5 or equivalent. You can see more details in the English Requirements section."
+          },
+          {
+            "role": "user",
+            "parts": "How long does the admissions process take?"
+          },
+          {
+            "role": "model",
+            "parts": "Once the completed application file, including all required materials, is submitted, it typically takes a few days to a week for application processing, review, and for the Letter of Acceptance to be sent via email. Upon receipt of the Letter of Acceptance, you will be required to make a non-refundable partial payment of 30% of the tuition fees for the semester before your visa supporting document is granted. The remaining 70% of the fees are usually paid upon your arrival at the university. Please note that the partial payment may vary based on your country of origin."
+          },
+          {
+            "role": "user",
+            "parts": "Where do I get my visa and how long does it take to have it?"
+          },
+          {
+            "role": "model",
+            "parts": "Once the non-refundable partial payment of 30% of tuition fees is received, the university will process your visa supporting document and send it to you via email or postal mail. You can then lodge your visa application at the nearest Thai Embassy or consulate in your country. The processing time for the visa application can range from at least 1 week to 1 month, depending on the visa processing requirements of the Thai embassy or consulate in your country, which you have provided to the university during your online application."
+          },
+          {
+            "role": "user",
+            "parts": "What documents must I present to get my visa?"
+          },
+          {
+            "role": "model",
+            "parts": "To obtain your visa, you will need to present a scan copy of the visa issuance letter sent to your email, along with other required documents sent via EMS to the postal address you specified on the online application form. Once you receive the original visa issuance letter, all these documents must be submitted to the Thai embassy or consulate for your visa to be granted."
+          },
+          {
+            "role": "user",
+            "parts": "What if I studied before from another college or university?"
+          },
+          {
+            "role": "model",
+            "parts": "If you have previously completed units or subjects from another institution, whether in Thailand, overseas, or from a different degree at Rangsit University, you may apply for credit transfer. This could potentially reduce the time required to complete your current degree. The maximum allowable credit transfer is 75% of the total credits for the current program. Eligible subjects for credit transfer must have an exact equivalent credit value or higher, and a completed grade of C or above. For more details, please refer to the Credit Transfer section."
+          },
+          {
+            "role": "user",
+            "parts": "Do you require SAT/ACT scores?"
+          },
+          {
+            "role": "model",
+            "parts": "The university does not require SAT/ACT scores for admission to the international programs."
+          },
+          {
+            "role": "user",
+            "parts": "Do you require letters of reference?"
+          },
+          {
+            "role": "model",
+            "parts": "Letters of reference are not required, and they are not used as part of the admissions process."
+          },
+          {
+            "role": "user",
+            "parts": "How early should a student apply?"
+          },
+          {
+            "role": "model",
+            "parts": "It is advisable to apply at least 2 months before the semester starts. Applying early is important. The university offers intakes in Summer (June-July), 1st Semester (August to December), and 2nd Semester (January to May). Applications are accepted on a rolling basis and typically take at least 2 to 4 weeks until the student receives the visa."
+          },
+          {
+            "role": "user",
+            "parts": "What are your coursework requirements?"
+          },
+          {
+            "role": "model",
+            "parts": "For course requirements, please visit the Programs section of the website."
+          },
+          {
+            "role": "user",
+            "parts": "How much does it cost to attend the program?"
+          },
+          {
+            "role": "model",
+            "parts": "For current estimated tuition fees, please refer to the Tuition section of the website."
+          },
+          {
+            "role": "user",
+            "parts": "What is the next step once I receive my visa?"
+          },
+          {
+            "role": "model",
+            "parts": "Once you receive your visa, you can proceed to book your air ticket to fly to Thailand and start arranging your accommodation and airport pick-up through the university's website."
+          },
+          {
+            "role": "user",
+            "parts": "Are students required to live on campus?"
+          },
+          {
+            "role": "model",
+            "parts": "Students are not required to live on campus. Initially, students are accommodated in one of the off-campus apartments reserved by the International Service Center, which are conveniently located near or next to the university and easily accessible on foot."
+          },
+          {
+            "role": "user",
+            "parts": "Can I stay inside the campus dormitory?"
+          },
+          {
+            "role": "model",
+            "parts": "Due to the limited availability of on-campus accommodation, reservations must be made at least 2 months in advance. Students can initially stay at the off-campus dormitory provided, and once settled, they can request to reserve on-campus accommodation."
+          },
+          {
+            "role": "user",
+            "parts": "How do students apply for scholarships?"
+          },
+          {
+            "role": "model",
+            "parts": "To apply for scholarships, students must first complete the online scholarship application form for the relevant intake and academic year, and attach the required relevant documents. Upon receiving the application, the university will notify applicants of the schedule for a Skype interview, which will be at the specified local date and time."
+          },
+          {
+            "role": "user",
+            "parts": "How do you determine scholarship eligibility?"
+          },
+          {
+            "role": "model",
+            "parts": "Scholarship eligibility is determined by the scholarship committee through a review process that includes interviews. Factors considered for eligibility include, but are not limited to, grade point average (GPA), coursework, test scores, extracurricular activities, and community involvement."
+          },          
       ],
     });
     const { question } = req.body;
